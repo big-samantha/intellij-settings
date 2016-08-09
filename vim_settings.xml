@@ -14,6 +14,9 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="/a.dummy" timestamp="1470769495781">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />
@@ -44,35 +47,35 @@
       <jump line="0" column="0" filename="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYnllYnVnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAnYnllYnVnJwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhY3Rpb24gOmNyZWF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmlsZSAnL3RtcC9tb3RkJyBkbwogIGNvbnRlbnQgJ2hlbGxvIGNoZWYgYWdhaW4nCmVuZAoK</text>
+        <text encoding="base64">ICBhY3Rpb24gOmNyZWF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb250ZW50ICdoZWxsbyBjaGVmJwo=</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsZSAnL3RtcC9tb3RkJyBkbwogIGNvbnRlbnQgJ2hlbGxvIGNoZWYgYWdhaW4nCmVuZAoK</text>
       </register>
       <register name="-" type="4">
         <text>world</text>

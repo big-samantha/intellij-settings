@@ -35,6 +35,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1470778412197">
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="124" column="37" />
+        <mark key="^" line="124" column="37" />
+        <mark key="." line="124" column="37" />
+      </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1470774933802" />
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
         <mark key="'" line="0" column="0" />
@@ -78,6 +84,9 @@
       <register name="9" type="2">
         <text encoding="base64">ZmlsZSAnL3RtcC9tb3RkJyBkbwogIGNvbnRlbnQgJ2hlbGxvIGNoZWYgYWdhaW4nCmVuZAoK</text>
       </register>
+      <register name=":" type="4">
+        <text>127</text>
+      </register>
       <register name="-" type="4">
         <text>world</text>
       </register>
@@ -88,7 +97,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>127</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

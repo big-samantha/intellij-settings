@@ -8,20 +8,21 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470788957456">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="49" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470795007635">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="3" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470769495781">
+      <file name="/a.dummy" timestamp="1470791733127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470785193081">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470794573912">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/Gemfile" timestamp="1470782901023">
         <mark key="[" line="6" column="14" />
@@ -42,6 +43,10 @@
         <mark key="^" line="170" column="20" />
         <mark key="." line="170" column="20" />
       </file>
+      <file name="/a.regexp" timestamp="1470791740914">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="21" />
@@ -49,10 +54,11 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470785236916">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470794266062">
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="9" column="98" />
+        <mark key="." line="9" column="98" />
+        <mark key="^" line="9" column="98" />
       </file>
       <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
         <mark key="[" line="4" column="7" />
@@ -89,9 +95,7 @@
       <jump line="28" column="22" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="3" column="25" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="11" column="5" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
-      <jump line="13" column="20" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="15" column="35" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
-      <jump line="27" column="23" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="30" column="4" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="40" column="23" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="41" column="29" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
@@ -101,52 +105,67 @@
       <jump line="171" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" />
       <jump line="177" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" />
       <jump line="48" column="3" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="1" column="15" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" />
+      <jump line="19" column="9" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="27" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="13" column="36" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="25" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="61" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="6" column="4" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
+      <jump line="12" column="29" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="0" column="26" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVzYWJsZV9ldmVudHMgPSBldmVudHMuc2VsZWN0IHsgfGV8IHRyYWNrZXIuaXNfdXNhYmxlX2V2ZW50PyhlKX0K</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-      <register name="/" type="4">
-        <text>create</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzYWJsZV9ldmVudHMgPSBldmVudHMuc2VsZWN0IHsgfGV8IHRyYWNrZXIuaXNfdXNhYmxlX2V2ZW50PyhlKX0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuaXNfdXNhYmxlX2V2ZW50Pwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGV2ZW50cy5lYWNoIGRvIHxlfAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="-" type="4">
+        <text>real_events.length</text>
+      </register>
+      <register name="/" type="4">
+        <text>EventSet</text>
+      </register>
+      <register name="0" type="4">
+        <text>unless eventset.instance_of?(PuppetX::Adopter::EventSet)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdyb3VwLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWYgcHJvY2Vzcyh2YXJpYXRpb25zPXt9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJhaXNlICdGaXJzdCBhcmd1bWVudCBtdXN0IGJlIGFuIGluc3RhbmNlIG9mIFB1cHBldFg6OkFkb3B0ZXI6OkV2ZW50U2V0JyB1bmxlc3MgZXZlbnRzZXQuaW5zdGFuY2Vfb2Y/KFB1cHBldFg6OkFkb3B0ZXI6OkV2ZW50U2V0KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgcHJvY2Vzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>EventSet</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>EventSet</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -156,7 +175,11 @@
         <entry>variations</entry>
         <entry>events</entry>
         <entry>array</entry>
+        <entry>byebug</entry>
+        <entry>set</entry>
         <entry>create</entry>
+        <entry>eventset</entry>
+        <entry>EventSet</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>

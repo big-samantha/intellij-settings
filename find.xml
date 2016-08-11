@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../lib/puppet/face/adopter.rb - [puppet-adopt]'" />
-    <option name="defaultScopeName" value="File '.../lib/puppet/face/adopter.rb - [puppet-adopt]'" />
-    <option name="SEARCH_SCOPE" value="File '.../lib/puppet/face/adopter.rb - [puppet-adopt]'" />
+    <option name="customScope" value="Project 'puppet-adopt'" />
+    <option name="defaultScopeName" value="Project 'puppet-adopt'" />
+    <option name="SEARCH_SCOPE" value="Project 'puppet-adopt'" />
   </component>
 </application>

@@ -8,8 +8,8 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470959810022">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470965365328">
+        <mark key="'" line="26" column="73" />
       </file>
       <file name="/a.dummy" timestamp="1470957628561">
         <mark key="[" line="0" column="0" />
@@ -123,13 +123,11 @@
       <jump line="1" column="15" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" />
       <jump line="19" column="9" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="63" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
-      <jump line="13" column="36" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="25" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="61" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="6" column="4" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
       <jump line="8" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" />
-      <jump line="12" column="29" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="0" column="26" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="8" column="16" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" />
       <jump line="10" column="5" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" />
@@ -139,7 +137,6 @@
       <jump line="28" column="9" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" />
       <jump line="37" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="27" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
-      <jump line="26" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="33" column="6" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="35" column="34" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="32" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
@@ -152,6 +149,10 @@
       <jump line="32" column="14" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
       <jump line="68" column="20" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
       <jump line="25" column="41" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="12" column="29" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="14" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="13" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="26" column="73" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -161,7 +162,7 @@
         <text>JSON</text>
       </register>
       <register name="/" type="4">
-        <text>redner</text>
+        <text>to_yaml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9wdGlvbiAnLS1qc29uJywgJy1qJyBkbwogICAgICBzdW1tYXJ5ICdPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0uJwogICAgICBkZXNjcmlwdGlvbiA8PC1FT1QKICAgICAgICBPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0gaW5zdGVhZCBvZiBwcmV0dHktcHJpbnRlZCBmb3IgaHVtYW4gY29uc3VtcHRpb24uIFVzZWZ1bAogICAgICAgIGlmIHlvdSB3YW50IHRvIHBhcnNlIHRoZSBvdXRwdXQgd2l0aCBvdGhlciB0b29scy4KICAgICAgRU9UCiAgICBlbmQK</text>
@@ -198,9 +199,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redner</last-search>
+      <last-search>to_yaml</last-search>
       <last-offset />
-      <last-pattern>redner</last-pattern>
+      <last-pattern>to_yaml</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -223,6 +224,8 @@
         <entry>recreate_group</entry>
         <entry>render</entry>
         <entry>redner</entry>
+        <entry>to_</entry>
+        <entry>to_yaml</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>

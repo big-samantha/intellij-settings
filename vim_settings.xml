@@ -8,7 +8,7 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470957627309">
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1470959810022">
         <mark key="'" line="48" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1470957628561">
@@ -25,6 +25,13 @@
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1470960099807">
+        <mark key="'" line="25" column="41" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="26" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="53" column="26" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
         <mark key="[" line="93" column="4" />
@@ -138,19 +145,26 @@
       <jump line="32" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="74" column="0" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="41" column="12" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" />
+      <jump line="30" column="7" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="42" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="47" column="64" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="111" column="49" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="32" column="14" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="68" column="20" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
+      <jump line="25" column="41" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>JSON</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>JSON</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text>redner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHVwcGV0L2ZvcmdlJwpyZXF1aXJlICdwdXBwZXQvbW9kdWxlX3Rvb2wvaW5zdGFsbF9kaXJlY3RvcnknCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbiAnLS1qc29uJywgJy1qJyBkbwogICAgICBzdW1tYXJ5ICdPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0uJwogICAgICBkZXNjcmlwdGlvbiA8PC1FT1QKICAgICAgICBPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0gaW5zdGVhZCBvZiBwcmV0dHktcHJpbnRlZCBmb3IgaHVtYW4gY29uc3VtcHRpb24uIFVzZWZ1bAogICAgICAgIGlmIHlvdSB3YW50IHRvIHBhcnNlIHRoZSBvdXRwdXQgd2l0aCBvdGhlciB0b29scy4KICAgICAgRU9UCiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAK</text>
@@ -184,10 +198,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
+      <last-search>redner</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>redner</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -205,6 +219,10 @@
         <entry>node_to</entry>
         <entry>node_to_</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry>options</entry>
+        <entry>recreate_group</entry>
+        <entry>render</entry>
+        <entry>redner</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>

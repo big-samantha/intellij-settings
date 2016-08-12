@@ -8,10 +8,11 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471028815555">
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471032132991">
         <mark key="'" line="26" column="73" />
-        <mark key="[" line="47" column="2" />
+        <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
+        <mark key="^" line="49" column="29" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1470957628561">
@@ -29,11 +30,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1470967319527">
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1471031470371">
         <mark key="'" line="25" column="41" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+        <mark key="[" line="127" column="29" />
+        <mark key="]" line="127" column="30" />
+        <mark key="." line="127" column="30" />
+        <mark key="^" line="127" column="32" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
         <mark key="[" line="93" column="4" />
@@ -96,12 +98,12 @@
         <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter.rb" timestamp="1470957584712" />
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1470956910497">
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1471031801623">
         <mark key="'" line="41" column="12" />
-        <mark key="[" line="45" column="9" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="29" />
+        <mark key="^" line="63" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -158,10 +160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBkZWYgc2VyaWFsaXplX3ZhcmlhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>JSON</text>
+        <text>old_name</text>
       </register>
       <register name="/" type="4">
         <text>to_yaml</text>
@@ -170,31 +172,31 @@
         <text encoding="base64">ICAgIG9wdGlvbiAnLS1qc29uJywgJy1qJyBkbwogICAgICBzdW1tYXJ5ICdPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0uJwogICAgICBkZXNjcmlwdGlvbiA8PC1FT1QKICAgICAgICBPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0gaW5zdGVhZCBvZiBwcmV0dHktcHJpbnRlZCBmb3IgaHVtYW4gY29uc3VtcHRpb24uIFVzZWZ1bAogICAgICAgIGlmIHlvdSB3YW50IHRvIHBhcnNlIHRoZSBvdXRwdXQgd2l0aCBvdGhlciB0b29scy4KICAgICAgRU9UCiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgc2VyaWFsaXplX3ZhcmlhdGlvbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV2ZW50c2V0ID0gdmFyaWF0aW9uLmZpcnN0Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV2ZW50c2V0ID0gdmFyaWF0aW9uLmZpcnN0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgdG9feWFtbAo=</text>
+        <text encoding="base64">CiAgZGVmIHRvX2hhc2gKICAgIEBkYXRhCiAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1Z21lCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgZGVmIHRvX2hhc2gKICAgIHsKICAgICAgICByZXNvdXJjZV90eXBlOiB0eXBlLAogICAgICAgIHJlc291cmNlX3RpdGxlOiB0aXRsZSwKICAgICAgICBvbGRfdmFsdWU6IG9sZF92YWx1ZSwKICAgICAgICBuZXdfdmFsdWU6IG5ld192YWx1ZSwKICAgICAgICBtZXNzYWdlOiBtZXNzYWdlLAogICAgfQogIGVuZA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ2J1Z21lJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgJ2J1Z21lJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>127</text>

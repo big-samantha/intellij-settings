@@ -26,12 +26,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1470961156827">
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1470961810467">
         <mark key="'" line="25" column="41" />
         <mark key="[" line="155" column="9" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="53" column="26" />
-        <mark key="." line="157" column="0" />
+        <mark key="]" line="156" column="17" />
+        <mark key="^" line="156" column="17" />
+        <mark key="." line="156" column="17" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
         <mark key="[" line="93" column="4" />
@@ -155,7 +155,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0LmpvaW4oIlxuIikK</text>
+        <text encoding="base64">ICAgICAgJ2hlbGxvIGRvbGx5Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>JSON</text>
@@ -167,19 +167,19 @@
         <text encoding="base64">ICAgIG9wdGlvbiAnLS1qc29uJywgJy1qJyBkbwogICAgICBzdW1tYXJ5ICdPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0uJwogICAgICBkZXNjcmlwdGlvbiA8PC1FT1QKICAgICAgICBPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0gaW5zdGVhZCBvZiBwcmV0dHktcHJpbnRlZCBmb3IgaHVtYW4gY29uc3VtcHRpb24uIFVzZWZ1bAogICAgICAgIGlmIHlvdSB3YW50IHRvIHBhcnNlIHRoZSBvdXRwdXQgd2l0aCBvdGhlciB0b29scy4KICAgICAgRU9UCiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3V0cHV0LmpvaW4oIlxuIikK</text>
+        <text encoding="base64">ICAgICAgJ2hlbGxvIGRvbGx5Jwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgb3V0cHV0LmpvaW4oIlxuIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgb3V0cHV0LmpvaW4oIlxuIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -188,7 +188,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>

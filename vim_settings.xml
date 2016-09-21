@@ -96,6 +96,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474491464722" />
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1471478722518">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="63" column="26" />

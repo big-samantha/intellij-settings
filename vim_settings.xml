@@ -97,7 +97,11 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474563376514" />
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474571267100">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1471478722518">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="63" column="26" />
@@ -105,6 +109,7 @@
         <mark key="." line="63" column="29" />
         <mark key="^" line="63" column="29" />
       </file>
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/memcached/manifests/init.pp" timestamp="1474571216304" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" />
@@ -163,7 +168,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>old_name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>to_yaml</text>
@@ -178,22 +183,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV2ZW50c2V0ID0gdmFyaWF0aW9uLmZpcnN0Cg==</text>
+        <text encoding="base64">IyBUaGUgZGVmYXVsdCBub2RlIGRlZmluaXRpb24gbWF0Y2hlcyBhbnkgbm9kZSBsYWNraW5nIGEgbW9yZSBzcGVjaWZpYyBub2RlCiMgZGVmaW5pdGlvbi4gSWYgdGhlcmUgYXJlIG5vIG90aGVyIG5vZGVzIGluIHRoaXMgZmlsZSwgY2xhc3NlcyBkZWNsYXJlZCBoZXJlCiMgd2lsbCBiZSBpbmNsdWRlZCBpbiBldmVyeSBub2RlJ3MgY2F0YWxvZywgKmluIGFkZGl0aW9uKiB0byBhbnkgY2xhc3NlcwojIHNwZWNpZmllZCBpbiB0aGUgY29uc29sZSBmb3IgdGhhdCBub2RlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV2ZW50c2V0ID0gdmFyaWF0aW9uLmZpcnN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHRvX2hhc2gKICAgIEBkYXRhCiAgZW5kCg==</text>
+      <register name="5" type="4">
+        <text># DEFAULT NODE
+# Node definitions in this file are merged with node data from the console. See
+# http://docs.puppetlabs.com/guides/language_guide.html#nodes for more on
+# node definitions.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBub3RpZnkgeyAiSGVsbG8sIG15IG5hbWUgaXMgJHs6Omhvc3RuYW1lfSI6IH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZGVmIHRvX2hhc2gKICAgIHsKICAgICAgICByZXNvdXJjZV90eXBlOiB0eXBlLAogICAgICAgIHJlc291cmNlX3RpdGxlOiB0aXRsZSwKICAgICAgICBvbGRfdmFsdWU6IG9sZF92YWx1ZSwKICAgICAgICBuZXdfdmFsdWU6IG5ld192YWx1ZSwKICAgICAgICBtZXNzYWdlOiBtZXNzYWdlLAogICAgfQogIGVuZA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUgPT4gUGFja2FnZVsnbWVtY2FjaGVkJ10sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

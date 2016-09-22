@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1474571280489">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/hello.rb" timestamp="1468037639463">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -19,6 +16,64 @@
         <mark key="." line="51" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1470957628561">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" timestamp="1470957082387">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="154" column="10" />
+        <mark key="]" line="154" column="10" />
+        <mark key="." line="154" column="10" />
+        <mark key="^" line="154" column="10" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470794266062">
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="9" column="98" />
+        <mark key="." line="9" column="98" />
+        <mark key="^" line="9" column="98" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Working/src/reidcontrol/manifests/site.pp" timestamp="1474580478401">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/manifests/init.pp" timestamp="1474582726309">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474582723274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470794573912">
@@ -40,35 +95,11 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="4" />
-        <mark key="." line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" timestamp="1470957082387">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="154" column="10" />
-        <mark key="]" line="154" column="10" />
-        <mark key="." line="154" column="10" />
-        <mark key="^" line="154" column="10" />
-      </file>
       <file name="/a.regexp" timestamp="1470791740914">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470794266062">
-        <mark key="[" line="9" column="94" />
-        <mark key="]" line="9" column="98" />
-        <mark key="." line="9" column="98" />
-        <mark key="^" line="9" column="98" />
-      </file>
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/default.conf" timestamp="1474582222859" />
       <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -81,32 +112,14 @@
         <mark key="." line="65" column="10" />
         <mark key="^" line="65" column="10" />
       </file>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Working/src/reidcontrol/manifests/site.pp" timestamp="1474580109707">
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="62" column="5" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="62" column="5" />
-      </file>
       <file name="$USER_HOME$/Working/src/classroom-control-vf/site/users/manifests/init.pp" timestamp="1474563317233" />
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468039138533">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="1" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474571312515">
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474581465592">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -171,49 +184,48 @@
       <jump line="14" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="13" column="27" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
       <jump line="26" column="73" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
+      <jump line="39" column="18" filename="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/manifests/init.pp" />
+      <jump line="24" column="19" filename="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/manifests/init.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAkcGF0aCA9ICcvdmFyL3d3dycK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'/etc/nginx/conf.d/default.conf',</text>
       </register>
       <register name="/" type="4">
         <text>to_yaml</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbiAnLS1qc29uJywgJy1qJyBkbwogICAgICBzdW1tYXJ5ICdPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0uJwogICAgICBkZXNjcmlwdGlvbiA8PC1FT1QKICAgICAgICBPdXRwdXQgZGF0YSBpbiBKU09OIGZvcm0gaW5zdGVhZCBvZiBwcmV0dHktcHJpbnRlZCBmb3IgaHVtYW4gY29uc3VtcHRpb24uIFVzZWZ1bAogICAgICAgIGlmIHlvdSB3YW50IHRvIHBhcnNlIHRoZSBvdXRwdXQgd2l0aCBvdGhlciB0b29scy4KICAgICAgRU9UCiAgICBlbmQK</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAkcGF0aCA9ICcvdmFyL3d3dycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUaGUgZGVmYXVsdCBub2RlIGRlZmluaXRpb24gbWF0Y2hlcyBhbnkgbm9kZSBsYWNraW5nIGEgbW9yZSBzcGVjaWZpYyBub2RlCiMgZGVmaW5pdGlvbi4gSWYgdGhlcmUgYXJlIG5vIG90aGVyIG5vZGVzIGluIHRoaXMgZmlsZSwgY2xhc3NlcyBkZWNsYXJlZCBoZXJlCiMgd2lsbCBiZSBpbmNsdWRlZCBpbiBldmVyeSBub2RlJ3MgY2F0YWxvZywgKmluIGFkZGl0aW9uKiB0byBhbnkgY2xhc3NlcwojIHNwZWNpZmllZCBpbiB0aGUgY29uc29sZSBmb3IgdGhhdCBub2RlLgo=</text>
+        <text encoding="base64">ICBmaWxlIHsgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text># DEFAULT NODE
-# Node definitions in this file are merged with node data from the console. See
-# http://docs.puppetlabs.com/guides/language_guide.html#nodes for more on
-# node definitions.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub3RpZnkgeyAiSGVsbG8sIG15IG5hbWUgaXMgJHs6Omhvc3RuYW1lfSI6IH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgPT4gUGFja2FnZVsnbWVtY2FjaGVkJ10sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>127</text>

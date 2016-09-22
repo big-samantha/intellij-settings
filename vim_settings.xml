@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1474571280489">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/hello.rb" timestamp="1468037639463">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -84,6 +87,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Working/src/reidcontrol/manifests/site.pp" timestamp="1474580109707">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/Working/src/classroom-control-vf/site/users/manifests/init.pp" timestamp="1474563317233" />
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
         <mark key="[" line="13" column="1" />
@@ -97,7 +106,7 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474571267100">
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/manifests/site.pp" timestamp="1474571312515">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -164,8 +173,8 @@
       <jump line="26" column="73" filename="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>

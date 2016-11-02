@@ -69,11 +69,22 @@
         <mark key="." line="9" column="98" />
         <mark key="^" line="9" column="98" />
       </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478109626502">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
         <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/spec_helper.rb" timestamp="1478109333836">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/client.rb" timestamp="1470957514338">
         <mark key="[" line="65" column="10" />
@@ -93,11 +104,11 @@
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="5" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/README.md" timestamp="1478108268181">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/README.md" timestamp="1478109444776">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
         <mark key="[" line="13" column="1" />
@@ -193,31 +204,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb250YWluIG15c3FsOjpiaW5kaW5ncwogIGNvbnRhaW4gbXlzcWw6OnNlcnZlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JExPQURfUEFUSC51bnNoaWZ0IEZpbGUuZXhwYW5kX3BhdGgoIi4uLy4uL2xpYiIsIF9fRklMRV9fKQpyZXF1aXJlICJwdXBwZXQvbGludC90cmFpbGluZ19uZXdsaW5lL2NoZWNrIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBmaWxlIHsgJy90bXAvZm9vJzogfSAtPgogIENsYXNzWydteXNxbDo6YmluZGluZ3MnXSAtPgogIGZpbGUgeyAnL3RtcC9iYXInOn0K</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGJsYWggPSAnYmFyJwokYmxhaCA9ICdmb28nCg==</text>
+        <text encoding="base64">ICBjb250YWluIG15c3FsOjpiaW5kaW5ncwogIGNvbnRhaW4gbXlzcWw6OnNlcnZlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkYmxhaCA9ICd2YWx1ZScK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmaWxlIHsgJy90bXAvZm9vJzogfSAtPgogIENsYXNzWydteXNxbDo6YmluZGluZ3MnXSAtPgogIGZpbGUgeyAnL3RtcC9iYXInOn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">JGJsYWggPSAnYmFyJwokYmxhaCA9ICdmb28nCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBub3RpZnkgeyAkZm9vOiB9Cg==</text>
+        <text encoding="base64">ICAkYmxhaCA9ICd2YWx1ZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBub3RpZnkgeyAkZm9vOiB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>127</text>

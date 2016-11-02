@@ -98,11 +98,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478111289656">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="69" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478125965943">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
         <mark key="[" line="4" column="7" />
@@ -204,11 +204,11 @@
       <jump line="3" column="44" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/puppet-lint-trailing_newline-check.gemspec" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -217,31 +217,31 @@
         <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICdyc3BlYy1jb2xsZWN0aW9uX21hdGNoZXJzJywgJ34+IDEuMCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICBjb250ZXh0ICd3aXRoIGZpeCBlbmFibGVkJyBkbwogICAgYmVmb3JlIGRvCiAgICAgIFB1cHBldExpbnQuY29uZmlndXJhdGlvbi5maXggPSB0cnVlCiAgICBlbmQKICAgIAogICAgCiAgICAKICAgIGFmdGVyIGRvCiAgICAgIAogICAgZW5kCiAgICAKICBlbmQKICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnkgOndhcm5pbmcsIHsK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6bWVzc2FnZSA9PiAnZXgnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZQo=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZnkgOndhcm5pbmcsIHsK</text>
       </register>
       <register name=":" type="4">
         <text>127</text>

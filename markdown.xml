@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="file:$USER_HOME$/Library/Application%20Support/RubyMine2016.1/markdown/lib/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/Users/zee/Library/Application%20Support/JetBrains/Toolbox/apps/RubyMine/ch-0/162.1812.23/RubyMine.app/Contents/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
     <MarkdownPreviewSettings>
       <HtmlPanelProviderInfo>
         <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />

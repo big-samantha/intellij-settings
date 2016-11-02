@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1474582727463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/Training/PUPP-0112-0238/practitioner/_files/ordering/manifests/init.pp" timestamp="1477501453059" />
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/hello.rb" timestamp="1468037639463">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="25" />
@@ -76,7 +75,6 @@
         <mark key="." line="4" column="7" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/Training/PUPP-0112-0238/practitioner/_files/ordering/manifests/epel.pp" timestamp="1477501281784" />
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/client.rb" timestamp="1470957514338">
         <mark key="[" line="65" column="10" />
         <mark key="]" line="65" column="10" />
@@ -94,6 +92,12 @@
         <mark key="]" line="62" column="5" />
         <mark key="^" line="62" column="5" />
         <mark key="." line="62" column="5" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/README.md" timestamp="1478107918684">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
         <mark key="[" line="13" column="1" />
@@ -176,11 +180,11 @@
       <jump line="24" column="19" filename="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/manifests/init.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250YWluIG15c3FsOjpiaW5kaW5ncwogIGNvbnRhaW4gbXlzcWw6OnNlcnZlcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>to_yaml</text>

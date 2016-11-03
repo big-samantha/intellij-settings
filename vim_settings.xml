@@ -43,10 +43,11 @@
         <mark key="." line="9" column="98" />
         <mark key="^" line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1478123093445">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1478204212578">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
         <mark key="[" line="0" column="0" />
@@ -98,11 +99,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478125965943">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="33" column="40" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478204072234">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
         <mark key="[" line="4" column="7" />
@@ -202,16 +204,19 @@
       <jump line="24" column="19" filename="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/manifests/init.pp" />
       <jump line="15" column="0" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/puppet-lint-trailing_newline-check.gemspec" />
       <jump line="3" column="44" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/puppet-lint-trailing_newline-check.gemspec" />
+      <jump line="56" column="35" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
+      <jump line="43" column="49" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
+      <jump line="44" column="15" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>manifest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICdyc3BlYy1jb2xsZWN0aW9uX21hdGNoZXJzJywgJ34+IDEuMCcK</text>
@@ -220,43 +225,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250ZXh0ICd3aXRoIGZpeCBlbmFibGVkJyBkbwogICAgYmVmb3JlIGRvCiAgICAgIFB1cHBldExpbnQuY29uZmlndXJhdGlvbi5maXggPSB0cnVlCiAgICBlbmQKICAgIAogICAgCiAgICAKICAgIGFmdGVyIGRvCiAgICAgIAogICAgZW5kCiAgICAKICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZnkgOndhcm5pbmcsIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>127</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>manifest</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>manifest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tracker</entry>
         <entry>variations</entry>
         <entry>events</entry>
         <entry>array</entry>
@@ -276,6 +280,7 @@
         <entry>to_</entry>
         <entry>to_yaml</entry>
         <entry>version</entry>
+        <entry>manifest</entry>
       </history-search>
       <history-cmd>
         <entry>127</entry>

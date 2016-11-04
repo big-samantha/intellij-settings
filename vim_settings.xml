@@ -43,7 +43,7 @@
         <mark key="." line="9" column="98" />
         <mark key="^" line="9" column="98" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1478217409797" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1478220341375" />
       <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="15" />

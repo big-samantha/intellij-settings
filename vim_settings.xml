@@ -3,85 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/hello.rb" timestamp="1468037639463">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471032132991">
-        <mark key="'" line="26" column="73" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="29" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_tests-check/lib/puppet/lint/example_tests/check.rb" timestamp="1479173614270">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1470957628561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="4" />
-        <mark key="." line="93" column="4" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" timestamp="1470957082387">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="154" column="10" />
-        <mark key="]" line="154" column="10" />
-        <mark key="." line="154" column="10" />
-        <mark key="^" line="154" column="10" />
-      </file>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470794266062">
-        <mark key="[" line="9" column="94" />
-        <mark key="]" line="9" column="98" />
-        <mark key="." line="9" column="98" />
-        <mark key="^" line="9" column="98" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1478220341375" />
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="$USER_HOME$/Working/src/reidcontrol/manifests/site.pp" timestamp="1474580478401">
-        <mark key="[" line="62" column="5" />
-        <mark key="]" line="62" column="5" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="62" column="5" />
-      </file>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="7" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1474582727463">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470794573912">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/Gemfile" timestamp="1470953569005">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet/face/adopter.rb" timestamp="1471031470371">
         <mark key="'" line="25" column="41" />
@@ -90,27 +25,51 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1470791740914">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478204072234">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="35" />
+      <file name="$USER_HOME$/Working/src/puppet-adopt/Gemfile" timestamp="1470953569005">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Working/src/learn-chef/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468106207715">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/hello.rb" timestamp="1468037639463">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/recipes/default.rb" timestamp="1468041014054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470794573912">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/spec_helper.rb" timestamp="1478109333836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/reidcontrol/manifests/site.pp" timestamp="1474580478401">
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="62" column="5" />
+        <mark key="^" line="62" column="5" />
+        <mark key="." line="62" column="5" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/runner.rb" timestamp="1470954829589">
+        <mark key="[" line="93" column="4" />
+        <mark key="]" line="93" column="4" />
+        <mark key="." line="93" column="4" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/client.rb" timestamp="1470957514338">
         <mark key="[" line="65" column="10" />
@@ -118,23 +77,11 @@
         <mark key="." line="65" column="10" />
         <mark key="^" line="65" column="10" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/README.md" timestamp="1478109444776">
-        <mark key="[" line="50" column="3" />
-        <mark key="]" line="30" column="6" />
-        <mark key="." line="30" column="6" />
-        <mark key="^" line="30" column="6" />
-      </file>
-      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468039138533">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/puppet-lint-trailing_newline-check.gemspec" timestamp="1478120184959">
-        <mark key="[" line="28" column="39" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="37" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_tests-check/Gemfile" timestamp="1479173727073">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/event.rb" timestamp="1471478722518">
         <mark key="'" line="41" column="12" />
@@ -142,6 +89,73 @@
         <mark key="]" line="63" column="29" />
         <mark key="." line="63" column="29" />
         <mark key="^" line="63" column="29" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_tests-check/puppet-lint-example_tests-check.gemspec" timestamp="1479173942809">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474582727463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/README.md" timestamp="1478109444776">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/eventset.rb" timestamp="1470794266062">
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="9" column="98" />
+        <mark key="." line="9" column="98" />
+        <mark key="^" line="9" column="98" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/puppet-lint-trailing_newline-check.gemspec" timestamp="1478120184959">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="37" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/cookbooks/learn_chef_httpd/templates/default/index.html.erb" timestamp="1468039138533">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/nodes.rb" timestamp="1470957082387">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="154" column="10" />
+        <mark key="]" line="154" column="10" />
+        <mark key="." line="154" column="10" />
+        <mark key="^" line="154" column="10" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/webserver.rb" timestamp="1468039105608">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/Vagrant/learnchef/chef-repo/goodbye.rb" timestamp="1468037077747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471032132991">
+        <mark key="'" line="26" column="73" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="49" column="29" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478204072234">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -202,19 +216,20 @@
       <jump line="56" column="35" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
       <jump line="43" column="49" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
       <jump line="44" column="15" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_tests-check/puppet-lint-example_tests-check.gemspec" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCAifj4gMy4wIg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">LCAifj4gMy4wIg==</text>
       </register>
       <register name="/" type="4">
         <text>manifest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICdyc3BlYy1jb2xsZWN0aW9uX21hdGNoZXJzJywgJ34+IDEuMCcK</text>
+        <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICJyc3BlYyIsICJ+PiAzLjAiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -244,7 +259,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>127</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -279,6 +294,9 @@
       </history-search>
       <history-cmd>
         <entry>127</entry>
+        <entry>w</entry>
+        <entry>x</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -296,11 +314,20 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

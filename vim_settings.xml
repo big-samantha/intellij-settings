@@ -25,6 +25,12 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479180983360">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="45" />
@@ -219,8 +225,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_tests-check/puppet-lint-example_tests-check.gemspec" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCAifj4gMy4wIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAifj4gMy4wIg==</text>
@@ -232,31 +238,31 @@
         <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICJyc3BlYyIsICJ+PiAzLjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

@@ -25,11 +25,10 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479259696245">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479260816010">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
         <mark key="[" line="7" column="7" />
@@ -60,7 +59,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1479258574801">
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1479260412344">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="6" />
       </file>
@@ -147,6 +146,12 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_leading_comma_spec.rb" timestamp="1479260514618">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471032132991">
         <mark key="'" line="26" column="73" />
         <mark key="[" line="51" column="0" />
@@ -154,7 +159,7 @@
         <mark key="^" line="49" column="29" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1479253398272">
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1479260442877">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="59" />
         <mark key="]" line="14" column="60" />
@@ -238,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDw8LWNvZGUgY29kZSA=</text>
@@ -250,31 +255,31 @@
         <text encoding="base64">ICAgICAgUHVwcGV0TGludC5jb25maWd1cmF0aW9uLmZpeCA9IHRydWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCg6Y29kZSkK</text>
+        <text encoding="base64">ICBkZWYgZml4KHByb2JsZW0pCiAgICB0b2tlbnMKICBlbmQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmlsZSB7ICdmb28nOgogIGVuc3VyZSA9PiBmaWxlLAogIG93bmVyICA9PiAnemVlJywKICBwYXRoICAgPT4gJy90bXAvZm9vJywKfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8PC1jb2RlCmZpbGUgeyAnZm9vJzoKICBlbnN1cmUgPT4gZmlsZQogICxvd25lciAgPT4gJ3plZScKICAscGF0aCAgID0+ICcvdG1wL2ZvbycKfQogICAgICAgIGNvZGUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAncHJ5Jwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCg6Y29kZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZmlsZSB7ICdmb28nOgogIGVuc3VyZSA9PiBmaWxlLAogIG93bmVyICA9PiAnemVlJywKICBwYXRoICAgPT4gJy90bXAvZm9vJywKfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8PC1jb2RlCmZpbGUgeyAnZm9vJzoKICBlbnN1cmUgPT4gZmlsZQogICxvd25lciAgPT4gJ3plZScKICAscGF0aCAgID0+ICcvdG1wL2ZvbycKfQogICAgICAgIGNvZGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

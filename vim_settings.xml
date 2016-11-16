@@ -25,8 +25,8 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479260816010">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479261785903">
+        <mark key="[" line="14" column="21" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
@@ -59,7 +59,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1479260412344">
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1479261903622">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="6" />
       </file>
@@ -146,7 +146,7 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_leading_comma_spec.rb" timestamp="1479260514618">
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_leading_comma_spec.rb" timestamp="1479261926379">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
@@ -159,7 +159,7 @@
         <mark key="^" line="49" column="29" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1479260442877">
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1479261557006">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="59" />
         <mark key="]" line="14" column="60" />

@@ -25,11 +25,11 @@
         <mark key="." line="127" column="30" />
         <mark key="^" line="127" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479180983360">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_leading_comma.rb" timestamp="1479254265943">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="5" column="5" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/Working/src/classroom-control-vf/site/nginx/files/index.html" timestamp="1474581831905">
         <mark key="[" line="7" column="7" />
@@ -54,12 +54,6 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/variation.rb" timestamp="1470794573912">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/spec_helper.rb" timestamp="1478109333836">
         <mark key="[" line="0" column="0" />
@@ -149,12 +143,23 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/spec/puppet-lint/plugins/check_leading_comma_spec.rb" timestamp="1479252761797">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/puppet-adopt/lib/puppet_x/adopter/processor.rb" timestamp="1471032132991">
         <mark key="'" line="26" column="73" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="49" column="29" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" timestamp="1479253398272">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="60" />
+        <mark key="." line="14" column="60" />
       </file>
       <file name="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" timestamp="1478204072234">
         <mark key="'" line="44" column="15" />
@@ -223,10 +228,14 @@
       <jump line="43" column="49" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
       <jump line="44" column="15" filename="$USER_HOME$/Working/src/puppet-lint-trailing_newline-check/spec/puppet-lint/plugins/check_trailing_newline_spec.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_tests-check/puppet-lint-example_tests-check.gemspec" />
+      <jump line="12" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" />
+      <jump line="14" column="59" filename="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/puppet-lint-example_lints-check/lib/puppet-lint/plugins/check_trailing_newline.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAifj4gMy4wIg==</text>
@@ -238,31 +247,31 @@
         <text encoding="base64">ICBzcGVjLmFkZF9kZXZlbG9wbWVudF9kZXBlbmRlbmN5ICJyc3BlYyIsICJ+PiAzLjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRva2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

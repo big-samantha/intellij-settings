@@ -19850,6 +19850,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.15.2/public" />
       </SOURCES>
     </library>
+    <library name="showoff (v0.16.0, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/views" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/showoff-0.16.0/public" />
+      </SOURCES>
+    </library>
     <library name="showterm (v0.5.0, rbenv: 1.9.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/showterm-0.5.0/bin" />

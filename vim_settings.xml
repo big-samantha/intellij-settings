@@ -6,6 +6,9 @@
       <file name="/Dummy.txt" timestamp="1497460916961">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Ruby Console" timestamp="1497461289810">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
@@ -14,7 +17,11 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>

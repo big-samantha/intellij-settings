@@ -9,12 +9,12 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497642776584">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497643999528">
         <mark key="'" line="642" column="0" />
-        <mark key="[" line="453" column="12" />
-        <mark key="]" line="453" column="13" />
-        <mark key="." line="453" column="13" />
-        <mark key="^" line="451" column="13" />
+        <mark key="[" line="454" column="13" />
+        <mark key="]" line="455" column="0" />
+        <mark key="." line="455" column="0" />
+        <mark key="^" line="455" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1497642749779">
         <mark key="[" line="0" column="0" />
@@ -103,10 +103,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>zalexander</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>zalexander</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>internal</text>
@@ -115,31 +115,31 @@
         <text encoding="base64">ICB6YWxleGFuZGVyOgogICAgZ3JvdXA6IGFsbHN0YWZmCiAgICB1aWQ6IDIwNzQKICAgIHNzaF9rZXlzOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3NmdHAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd29tcGx5X3Byb2R1Y3QgPT4gJ2NhcmQtZGF0YScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3NmdHAnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>8</text>

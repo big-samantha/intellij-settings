@@ -9,14 +9,14 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497643999528">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497645107473">
         <mark key="'" line="642" column="0" />
         <mark key="[" line="454" column="13" />
         <mark key="]" line="455" column="0" />
         <mark key="." line="455" column="0" />
         <mark key="^" line="455" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497642749779">
+      <file name="/Dummy.txt" timestamp="1497645062083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
@@ -40,6 +40,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/puppet/aws_userdata.sh.erb" timestamp="1497645097956" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="21" />
@@ -60,9 +61,6 @@
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1497481746573">
-        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" timestamp="1497544371676">
         <mark key="'" line="139" column="29" />

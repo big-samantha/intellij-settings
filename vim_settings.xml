@@ -53,19 +53,10 @@
       <file name="/Dummy.txt" timestamp="1497653224686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/analytics/job.yaml" timestamp="1497481978091">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="." line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/.editorconfig" timestamp="1497553244639">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1497559840304">
         <mark key="[" line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/policy_ecs_readonly.json.erb" timestamp="1497656405248" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
         <mark key="'" line="78" column="0" />
         <mark key="]" line="32" column="25" />

@@ -26,6 +26,7 @@
         <mark key="." line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/puppet/aws_userdata.sh.erb" timestamp="1497645097956" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/monitoring/host.pp" timestamp="1497651343144" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="21" />
@@ -48,7 +49,7 @@
         <mark key="." line="455" column="0" />
         <mark key="^" line="455" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497648733857">
+      <file name="/Dummy.txt" timestamp="1497652472426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/analytics/job.yaml" timestamp="1497481978091">
@@ -63,6 +64,12 @@
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1497559840304">
         <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
+        <mark key="'" line="78" column="0" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" timestamp="1497648484415">
         <mark key="'" line="139" column="29" />
@@ -100,13 +107,16 @@
       <jump line="139" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="478" column="12" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="642" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
+      <jump line="22" column="1" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
+      <jump line="29" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
+      <jump line="77" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBDbGFzc1snZXBlbCddIC0+IFl1bXJlcG9bJ3B1cHBldGxhYnMtcGMxJ10K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parameters</text>
       </register>
       <register name="/" type="4">
         <text>internal</text>
@@ -115,34 +125,34 @@
         <text encoding="base64">ICB6YWxleGFuZGVyOgogICAgZ3JvdXA6IGFsbHN0YWZmCiAgICB1aWQ6IDIwNzQKICAgIHNzaF9rZXlzOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBDbGFzc1snZXBlbCddIC0+IFl1bXJlcG9bJ3B1cHBldGxhYnMtcGMxJ10K</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbmNsdWRlIGVwZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdhdG9wJywKICAgICdiaW5kLXV0aWxzJywKICAgICdodG9wJywKICAgICdsc29mJywKICAgICdtZGFkbScsCiAgICAnbm1hcCcsCiAgICAncHYnLAogICAgJ3NjcmVlbicsCiAgICAnc3RyYWNlJywKICAgICdzeXNzdGF0JywKICAgICd0ZWxuZXQnLAogICAgJ3RjcGR1bXAnLAogICAgJ3ZpbScsCiAgICAnd2hvaXMnLAogICAgJ3dnZXQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5kZW50X3NpemUgPSAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ3NmdHAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>5</text>
       </register>
     </registers>
     <search>
@@ -171,6 +181,7 @@
         <entry>%s/$partner/$user/g</entry>
         <entry>25</entry>
         <entry>8</entry>
+        <entry>5</entry>
       </history-cmd>
       <history-expr />
       <history-input />

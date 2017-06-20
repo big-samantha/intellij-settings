@@ -34,7 +34,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1497987700943" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1497996118464" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1497917253343">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="41" column="24" />

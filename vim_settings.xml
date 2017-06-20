@@ -34,6 +34,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1497987700943" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1497917253343">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="41" column="24" />
@@ -56,8 +57,6 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1497917231256" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/publisher-service.yaml" timestamp="1497916822547" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
         <mark key="'" line="78" column="0" />
         <mark key="]" line="32" column="25" />

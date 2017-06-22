@@ -9,14 +9,14 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498158881549">
-        <mark key="'" line="638" column="4" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498161637195">
+        <mark key="'" line="68" column="25" />
         <mark key="[" line="487" column="4" />
         <mark key="]" line="487" column="70" />
         <mark key="." line="487" column="70" />
         <mark key="^" line="487" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498158776806">
+      <file name="/Dummy.txt" timestamp="1498161723977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
@@ -28,7 +28,12 @@
       <file name="/Ruby Console" timestamp="1497461289810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498158697757" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498161171796">
+        <mark key="[" line="290" column="42" />
+        <mark key="]" line="290" column="49" />
+        <mark key="^" line="290" column="49" />
+        <mark key="." line="290" column="49" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/ecsServiceYaml.py" timestamp="1497996481107">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="10" column="13" />
@@ -42,6 +47,9 @@
         <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/group.pp" timestamp="1498158774267" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498160992870">
+        <mark key="[" line="39" column="34" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/matchdata_intake.pp" timestamp="1497476436390">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="34" />
@@ -60,6 +68,12 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/iam/base.pp" timestamp="1498160706419">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1497559840304">
         <mark key="[" line="0" column="23" />
       </file>
@@ -70,7 +84,7 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498158388685" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498161779124" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
         <mark key="'" line="78" column="0" />
         <mark key="]" line="32" column="25" />
@@ -90,6 +104,12 @@
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/iam_base_group.pp" timestamp="1498161640979">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+        <mark key="^" line="9" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -134,55 +154,56 @@
       <jump line="4" column="1" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
       <jump line="14" column="3" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
       <jump line="3" column="11" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
+      <jump line="68" column="25" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>hiera('womply::user_data')</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>hiera('womply::user_data')</text>
       </register>
       <register name="/" type="4">
-        <text>sfdata</text>
+        <text>womply::user_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvd29tcGx5LWhhc2gtc2VydmljZTpkZXZlbG9wJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpYW1fcG9saWN5X2F0dGFjaG1lbnQgeyAnYmFzZWdyb3VwJ30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9vID0gJ2JhcicK</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aXNkZmpvZHNqYWRmc2tsamRzZgo=</text>
+        <text encoding="base64">ICAjIEFsbG93IGFsbAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb3UK</text>
+        <text encoding="base64">ICBpYW1fcG9saWN5IHsgJ3NlbGZfc2VydmljY2RlLWNyZWRlbnRpYWxzJ30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvdW50IDoyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm9kOgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBhY2NvdW50Ojpncm91cCB7ICdleHRlcm5hbF91c2Vycyc6CiAgICBlbnN1cmUgICAgPT4gcHJlc2VudCwKICAgIGdpZCAgICAgICA9PiAnMTA0MCcsCiAgICBtZW1iZXJzICAgPT4gJGV4dGVybmFsX3VzZXJzLmtleXMsCiAgICBleGNsdXNpdmUgPT4gdHJ1ZSwKICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDbGFzc1snZXBlbCddIC0+IFl1bXJlcG9bJ3B1cHBldGxhYnMtcGMxJ10K</text>
+        <text encoding="base64">Zm9vID0gJ2JhcicK</text>
       </register>
       <register name=":" type="4">
         <text>28</text>
       </register>
     </registers>
     <search>
-      <last-search>sfdata</last-search>
+      <last-search>womply::user_data</last-search>
       <last-offset />
-      <last-pattern>sfdata</last-pattern>
+      <last-pattern>womply::user_data</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -201,6 +222,7 @@
         <entry>womply_group</entry>
         <entry>group</entry>
         <entry>sfdata</entry>
+        <entry>womply::user_data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

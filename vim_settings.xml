@@ -9,14 +9,14 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498161637195">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498163262221">
         <mark key="'" line="68" column="25" />
         <mark key="[" line="487" column="4" />
         <mark key="]" line="487" column="70" />
         <mark key="." line="487" column="70" />
         <mark key="^" line="487" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498161723977">
+      <file name="/Dummy.txt" timestamp="1498162195201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
@@ -56,6 +56,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1498163120059" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1497917253343">
         <mark key="[" line="40" column="32" />
         <mark key="]" line="41" column="24" />
@@ -84,7 +85,9 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498161779124" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498163381076">
+        <mark key="m" line="48" column="24" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
         <mark key="'" line="78" column="0" />
         <mark key="]" line="32" column="25" />
@@ -110,6 +113,12 @@
         <mark key="]" line="9" column="41" />
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="41" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/modules/custom/manifests/aws/is_iam_user.pp" timestamp="1498162616104">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -158,10 +167,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hiera('womply::user_data')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>hiera('womply::user_data')</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>womply::user_data</text>

@@ -9,10 +9,14 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497906555715">
-        <mark key="'" line="645" column="4" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498152930797">
+        <mark key="'" line="646" column="4" />
+        <mark key="[" line="506" column="14" />
+        <mark key="]" line="507" column="17" />
+        <mark key="^" line="507" column="17" />
+        <mark key="." line="507" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498072648935">
+      <file name="/Dummy.txt" timestamp="1498152942095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
@@ -33,9 +37,9 @@
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1497917253343">
         <mark key="[" line="24" column="32" />
-        <mark key="]" line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="24" />
+        <mark key="]" line="42" column="24" />
+        <mark key="^" line="42" column="24" />
+        <mark key="." line="42" column="24" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
@@ -200,6 +204,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

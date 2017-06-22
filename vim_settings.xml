@@ -9,14 +9,14 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1497906555715">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498158881549">
         <mark key="'" line="638" column="4" />
-        <mark key="[" line="454" column="13" />
-        <mark key="]" line="455" column="0" />
-        <mark key="." line="455" column="0" />
-        <mark key="^" line="455" column="3" />
+        <mark key="[" line="487" column="4" />
+        <mark key="]" line="487" column="70" />
+        <mark key="." line="487" column="70" />
+        <mark key="^" line="487" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497917169451">
+      <file name="/Dummy.txt" timestamp="1498158776806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
@@ -28,6 +28,7 @@
       <file name="/Ruby Console" timestamp="1497461289810">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498158697757" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/ecsServiceYaml.py" timestamp="1497996481107">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="10" column="13" />
@@ -40,6 +41,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/group.pp" timestamp="1498158774267" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/matchdata_intake.pp" timestamp="1497476436390">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="34" />
@@ -68,12 +70,14 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498158388685" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
         <mark key="'" line="78" column="0" />
         <mark key="]" line="32" column="25" />
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/groups.pp" timestamp="1498158671593" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" timestamp="1497907169569">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -132,8 +136,8 @@
       <jump line="3" column="11" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -145,31 +149,31 @@
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvd29tcGx5LWhhc2gtc2VydmljZTpkZXZlbG9wJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9vID0gJ2JhcicK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aXNkZmpvZHNqYWRmc2tsamRzZgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb3UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50IDoyCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Zm9vID0gJ2JhcicK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aXNkZmpvZHNqYWRmc2tsamRzZgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb3UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvdW50IDoyCg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBwcm9kOgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBhY2NvdW50Ojpncm91cCB7ICdleHRlcm5hbF91c2Vycyc6CiAgICBlbnN1cmUgICAgPT4gcHJlc2VudCwKICAgIGdpZCAgICAgICA9PiAnMTA0MCcsCiAgICBtZW1iZXJzICAgPT4gJGV4dGVybmFsX3VzZXJzLmtleXMsCiAgICBleGNsdXNpdmUgPT4gdHJ1ZSwKICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBDbGFzc1snZXBlbCddIC0+IFl1bXJlcG9bJ3B1cHBldGxhYnMtcGMxJ10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDbGFzc1snZXBlbCddIC0+IFl1bXJlcG9bJ3B1cHBldGxhYnMtcGMxJ10K</text>
       </register>
       <register name=":" type="4">
         <text>28</text>
@@ -216,6 +220,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

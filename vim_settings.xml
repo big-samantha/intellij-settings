@@ -27,6 +27,9 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498160992870">
         <mark key="[" line="39" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1498174949851">
+        <mark key="'" line="55" column="6" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/matchdata_intake.pp" timestamp="1497476436390">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="2" column="34" />
@@ -166,6 +169,8 @@
       <jump line="68" column="25" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="259" column="18" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="284" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
+      <jump line="45" column="16" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
+      <jump line="55" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

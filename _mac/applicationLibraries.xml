@@ -188,6 +188,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.1, rbenv: 2.1.9-cleanroom) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="colored (v1.2, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/colored-1.2/lib" />
@@ -1328,6 +1338,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.2, rbenv: 2.1.9-cleanroom) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v2.99.3, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/mime-types-2.99.3/lib" />
@@ -1644,6 +1662,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.10.4, rbenv: 2.1.9-cleanroom) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/pry-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, rbenv: 2.1.9) [gem]">
@@ -2304,6 +2332,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/slop-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="slop (v3.6.0, rbenv: 2.1.9-cleanroom) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/slop-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/slop-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="spdx-licenses (v1.1.0, rbenv: 2.1.9) [gem]">

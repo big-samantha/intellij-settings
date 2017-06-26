@@ -11,15 +11,11 @@
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
         <mark key="'" line="282" column="4" />
-        <mark key="[" line="641" column="0" />
-        <mark key="]" line="641" column="0" />
-        <mark key="." line="641" column="0" />
-        <mark key="^" line="641" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498503504452">
+      <file name="/Dummy.txt" timestamp="1498506750287">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
         <mark key="[" line="0" column="25" />
@@ -30,11 +26,11 @@
       <file name="/Ruby Console" timestamp="1497461289810">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498161171796">
-        <mark key="[" line="290" column="42" />
-        <mark key="]" line="290" column="49" />
-        <mark key="^" line="290" column="49" />
-        <mark key="." line="290" column="49" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498506628580">
+        <mark key="[" line="388" column="27" />
+        <mark key="]" line="388" column="44" />
+        <mark key="^" line="388" column="44" />
+        <mark key="." line="388" column="44" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/ecsServiceYaml.py" timestamp="1497996481107">
         <mark key="[" line="9" column="14" />
@@ -172,8 +168,15 @@
       <jump line="55" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
+      <register name="&quot;" type="4">
+        <text>bhunter and rdraper are in the utah-analytics IAM group
+
+These two members of Adam Davis' team were missing from the group, but
+already have AWS/IAM accounts.
+
+Also, alphabetized the member list because OCD.
+
+RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -184,29 +187,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvd29tcGx5LWhhc2gtc2VydmljZTpkZXZlbG9wJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
+      <register name="1" type="4">
+        <text>bhunter and rdraper are in the utah-analytics IAM group
+
+These two members of Adam Davis' team were missing from the group, but
+already have AWS/IAM accounts.
+
+Also, alphabetized the member list because OCD.
+
+RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gZG5lbHNvbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gYnNvZGVycXVpc3QK</text>
+        <text encoding="base64">ICAgIC0gZG5lbHNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gY2ZvcmQK</text>
+        <text encoding="base64">ICAgIC0gYnNvZGVycXVpc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gYWRhdmlzCg==</text>
+        <text encoding="base64">ICAgIC0gY2ZvcmQK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIC0gYWRhdmlzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gYWRhdmlzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

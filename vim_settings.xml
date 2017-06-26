@@ -9,14 +9,6 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
-        <mark key="'" line="282" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1498515460279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1497476016344">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="24" />
@@ -25,18 +17,6 @@
       </file>
       <file name="/Ruby Console" timestamp="1497461289810">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498506628580">
-        <mark key="[" line="388" column="27" />
-        <mark key="]" line="388" column="44" />
-        <mark key="^" line="388" column="44" />
-        <mark key="." line="388" column="44" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-aws/scripts/ecsServiceYaml.py" timestamp="1497996481107">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="10" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1498157840451">
         <mark key="[" line="3" column="4" />
@@ -47,6 +27,9 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498160992870">
         <mark key="[" line="39" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" timestamp="1498519794588">
+        <mark key="'" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1498174949851">
         <mark key="'" line="55" column="6" />
       </file>
@@ -56,17 +39,66 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1497917253343">
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="41" column="24" />
-        <mark key="^" line="41" column="24" />
-        <mark key="." line="41" column="24" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
+        <mark key="'" line="19" column="13" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="53" />
+        <mark key="." line="39" column="53" />
+        <mark key="^" line="39" column="53" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="40" column="109" />
+        <mark key="^" line="40" column="109" />
+        <mark key="." line="40" column="109" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/modules/custom/manifests/aws/is_iam_user.pp" timestamp="1498162616104">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1498519944046">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
+        <mark key="'" line="282" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498515460279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498506628580">
+        <mark key="[" line="388" column="27" />
+        <mark key="]" line="388" column="44" />
+        <mark key="^" line="388" column="44" />
+        <mark key="." line="388" column="44" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" timestamp="1498519801051">
+        <mark key="'" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-aws/scripts/ecsServiceYaml.py" timestamp="1497996481107">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/iam/base.pp" timestamp="1498160706419">
         <mark key="[" line="0" column="31" />
@@ -77,34 +109,11 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1497559840304">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
-        <mark key="^" line="39" column="53" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/users.pp" timestamp="1498163381076">
         <mark key="m" line="48" column="24" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="40" column="109" />
-        <mark key="^" line="40" column="109" />
-        <mark key="." line="40" column="109" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" timestamp="1497652253552">
-        <mark key="'" line="78" column="0" />
-        <mark key="]" line="32" column="25" />
-        <mark key="." line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/modules/custom/manifests/aws/is_iam_user.pp" timestamp="1498162616104">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" timestamp="1498519797924">
+        <mark key="'" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" timestamp="1497907169569">
         <mark key="[" line="26" column="0" />
@@ -112,12 +121,12 @@
         <mark key="^" line="33" column="43" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" timestamp="1498516534501">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" timestamp="1498519939735">
         <mark key="'" line="3" column="11" />
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="3" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/iam_base_group.pp" timestamp="1498168314088">
         <mark key="[" line="23" column="0" />
@@ -174,69 +183,72 @@
       <jump line="45" column="16" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
       <jump line="55" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
       <jump line="44" column="0" filename="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" />
+      <jump line="15" column="46" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
+      <jump line="39" column="569" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
+      <jump line="4" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
+      <jump line="5" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
+      <jump line="46" column="21" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
+      <jump line="29" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
+      <jump line="5" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
+      <jump line="8" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
+      <jump line="7" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bhunter and rdraper are in the utah-analytics IAM group
-
-These two members of Adam Davis' team were missing from the group, but
-already have AWS/IAM accounts.
-
-Also, alphabetized the member list because OCD.
-
-RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
-      </register>
-      <register name="-" type="4">
-        <text />
-      </register>
-      <register name="/" type="4">
-        <text>all_aws</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvd29tcGx5LWhhc2gtc2VydmljZTpkZXZlbG9wJwo=</text>
-      </register>
-      <register name="1" type="4">
-        <text>bhunter and rdraper are in the utah-analytics IAM group
-
-These two members of Adam Davis' team were missing from the group, but
-already have AWS/IAM accounts.
-
-Also, alphabetized the member list because OCD.
-
-RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gZG5lbHNvbgo=</text>
+      <register name="-" type="4">
+        <text>100</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gYnNvZGVycXVpc3QK</text>
+      <register name="/" type="4">
+        <text>memory</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gY2ZvcmQK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvcmV2ZW51ZS1zZXJ2aWNlOmRldmVsb3AnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gYWRhdmlzCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gYWRhdmlzCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>bhunter and rdraper are in the utah-analytics IAM group
+
+These two members of Adam Davis' team were missing from the group, but
+already have AWS/IAM accounts.
+
+Also, alphabetized the member list because OCD.
+
+RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gZG5lbHNvbgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC0gYnNvZGVycXVpc3QK</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>29</text>
       </register>
     </registers>
     <search>
-      <last-search>all_aws</last-search>
+      <last-search>memory</last-search>
       <last-offset />
-      <last-pattern>all_aws</last-pattern>
+      <last-pattern>memory</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -259,6 +271,8 @@ RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
         <entry>aws</entry>
         <entry>aws_base</entry>
         <entry>all_aws</entry>
+        <entry>cpu</entry>
+        <entry>memory</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>
@@ -269,6 +283,7 @@ RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
         <entry>239</entry>
         <entry>28</entry>
         <entry>w</entry>
+        <entry>29</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -65,16 +65,17 @@
         <mark key="^" line="0" column="46" />
         <mark key="." line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1498519944046">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1498521081811">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
         <mark key="'" line="282" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498515460279">
+      <file name="/Dummy.txt" timestamp="1498520991611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -195,11 +196,11 @@
       <jump line="7" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>memory</text>
@@ -208,18 +209,24 @@
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvcmV2ZW51ZS1zZXJ2aWNlOmRldmVsb3AnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>bhunter and rdraper are in the utah-analytics IAM group
 
 These two members of Adam Davis' team were missing from the group, but
@@ -229,17 +236,11 @@ Also, alphabetized the member list because OCD.
 
 RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZG5lbHNvbgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gYnNvZGVycXVpc3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>29</text>

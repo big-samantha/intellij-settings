@@ -18,6 +18,13 @@
       <file name="/Ruby Console" timestamp="1497461289810">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498597268022">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="64" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1498157840451">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -75,17 +82,12 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
         <mark key="'" line="282" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498585859404">
+      <file name="/Dummy.txt" timestamp="1498597684686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498506628580">
-        <mark key="[" line="388" column="27" />
-        <mark key="]" line="388" column="44" />
-        <mark key="^" line="388" column="44" />
-        <mark key="." line="388" column="44" />
-      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1498597749035" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" timestamp="1498519801051">
         <mark key="'" line="8" column="4" />
       </file>
@@ -95,7 +97,6 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1498586111909" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="29" column="20" />
@@ -195,62 +196,63 @@
       <jump line="8" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
       <jump line="7" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
+      <jump line="39" column="26" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="27" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="18" column="55" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="46" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="49" column="27" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="70" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="9" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>memory</text>
+        <text>admin_port</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvcmV2ZW51ZS1zZXJ2aWNlOmRldmVsb3AnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
+        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6IEVOQ1tQS0NTNyxNSUlCbVFZSktvWklodmNOQVFjRG9JSUJpakNDQVlZQ0FRQXhnZ0VoTUlJQkhRSUJBREFGTUFBQ0FRRXdEUVlKS29aSWh2Y05BUUVCQlFBRWdnRUFib09FcjVjSFYwZkNZZnFnSnhkVU1WRWpLZFpRVU5HVFZNZy9KM2tkUnAgICAgICAvS3VEZnhwdGozeHVpNHpleHNaYXd2Rm91YVozaWZnTGwreWZUczV4SysrNmc5Mjl2bWFHTDNMM3Faa1pXTUNUOXVqNStDck1NaEIzSWZJQmcxakQzRUtDVnRaWTdWQnErZ3kvdHNnQjI3N2NIamZ6ME44VWVaVFpvRWlGWTJIMTNmTTRiYnlaL1RVVVRObDA2YXd5VG9jb2ZzRFlEQklwdXRHNGdraS90YnNDTWEgICAgICArVHM3dEl2NWRqa3l5SktsK0VPVnJEQnoyT200YVVRZFhwTVFNMlliVHZUYzRhWXRHS2phZ0lvSVRpSHVyY0tRTG56YmVMM1RjLzNDRngwbVJzYnQ2RzhZbWZGUkpyeVd1NThqeExnODMzNmttSzJlK1ZOTXp6TE1wZ1VYOGpCY0Jna3Foa2lHOXcwQkJ3RXdIUVlKWUlaSUFXVURCQUVxQkJCc1U5bzl5am5nTHhGcVVGICAgICAgL1NUMzNlZ0RENnFBUWRERWNoTXFNVVlGaUdqTlNmVFRlamlqT3ZCenFIVDJrdklZQWNZWVpRUXAwdjJLd2xhS1lXd0h4UjJKUT1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBRE1JTl9QT1JUOiAnOTA4MCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWRtaW5fcG9ydDogOTEwNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>bhunter and rdraper are in the utah-analytics IAM group
-
-These two members of Adam Davis' team were missing from the group, but
-already have AWS/IAM accounts.
-
-Also, alphabetized the member list because OCD.
-
-RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBbRE9QUy0zMDE1XQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>29</text>
+        <text>365</text>
       </register>
     </registers>
     <search>
-      <last-search>memory</last-search>
+      <last-search>admin_port</last-search>
       <last-offset />
-      <last-pattern>memory</last-pattern>
+      <last-pattern>admin_port</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -275,6 +277,9 @@ RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
         <entry>all_aws</entry>
         <entry>cpu</entry>
         <entry>memory</entry>
+        <entry>beta</entry>
+        <entry>rds</entry>
+        <entry>admin_port</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>
@@ -286,6 +291,8 @@ RubyMine auto-trimmed unnecessary whitespa from line 601.</text>
         <entry>28</entry>
         <entry>w</entry>
         <entry>29</entry>
+        <entry>44</entry>
+        <entry>365</entry>
       </history-cmd>
       <history-expr />
       <history-input />

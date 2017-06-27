@@ -75,7 +75,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
         <mark key="'" line="282" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498520991611">
+      <file name="/Dummy.txt" timestamp="1498585859404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -95,6 +95,7 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/users_from_group_list.pp" timestamp="1498586111909" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="29" column="20" />

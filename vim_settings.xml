@@ -59,6 +59,7 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1498599981381" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="6" column="64" />
@@ -82,7 +83,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498503192879">
         <mark key="'" line="282" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498597684686">
+      <file name="/Dummy.txt" timestamp="1498599982931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -213,7 +214,7 @@
         <text>.ctcscgdmwqwe.us-west-2.rds.amazonaws.com</text>
       </register>
       <register name="/" type="4">
-        <text>admin_port</text>
+        <text>docker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltYWdlOiAncXVheS5pby93b21wbHkvcmV2ZW51ZS1zZXJ2aWNlOmRldmVsb3AnCg==</text>
@@ -250,9 +251,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin_port</last-search>
+      <last-search>docker</last-search>
       <last-offset />
-      <last-pattern>admin_port</last-pattern>
+      <last-pattern>docker</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -260,7 +261,6 @@
     </search>
     <history>
       <history-search>
-        <entry>${partner}</entry>
         <entry>partner</entry>
         <entry>$partner</entry>
         <entry>chroot</entry>
@@ -280,6 +280,7 @@
         <entry>beta</entry>
         <entry>rds</entry>
         <entry>admin_port</entry>
+        <entry>docker</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

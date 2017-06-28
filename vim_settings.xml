@@ -25,12 +25,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498666937938">
-        <mark key="'" line="9" column="2" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
-        <mark key="^" line="52" column="30" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498682635032">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+        <mark key="^" line="13" column="2" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" timestamp="1498519794588">
         <mark key="'" line="5" column="4" />
@@ -86,7 +86,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498601739597">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498602335587">
+      <file name="/Dummy.txt" timestamp="1498682828980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -206,10 +206,15 @@
       <jump line="9" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="59" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="9" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
+      <jump line="44" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
+      <jump line="61" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>double_quoted_strings</text>
+      <register name="&quot;" type="8">
+        <text>i
+i
+i
+i</text>
       </register>
       <register name="-" type="4">
         <text>double_quoted_strings</text>
@@ -220,29 +225,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>i
+i
+i
+i</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6IEVOQ1tQS0NTNyxNSUlCbVFZSktvWklodmNOQVFjRG9JSUJpakNDQVlZQ0FRQXhnZ0VoTUlJQkhRSUJBREFGTUFBQ0FRRXdEUVlKS29aSWh2Y05BUUVCQlFBRWdnRUFib09FcjVjSFYwZkNZZnFnSnhkVU1WRWpLZFpRVU5HVFZNZy9KM2tkUnAgICAgICAvS3VEZnhwdGozeHVpNHpleHNaYXd2Rm91YVozaWZnTGwreWZUczV4SysrNmc5Mjl2bWFHTDNMM3Faa1pXTUNUOXVqNStDck1NaEIzSWZJQmcxakQzRUtDVnRaWTdWQnErZ3kvdHNnQjI3N2NIamZ6ME44VWVaVFpvRWlGWTJIMTNmTTRiYnlaL1RVVVRObDA2YXd5VG9jb2ZzRFlEQklwdXRHNGdraS90YnNDTWEgICAgICArVHM3dEl2NWRqa3l5SktsK0VPVnJEQnoyT200YVVRZFhwTVFNMlliVHZUYzRhWXRHS2phZ0lvSVRpSHVyY0tRTG56YmVMM1RjLzNDRngwbVJzYnQ2RzhZbWZGUkpyeVd1NThqeExnODMzNmttSzJlK1ZOTXp6TE1wZ1VYOGpCY0Jna3Foa2lHOXcwQkJ3RXdIUVlKWUlaSUFXVURCQUVxQkJCc1U5bzl5am5nTHhGcVVGICAgICAgL1NUMzNlZ0RENnFBUWRERWNoTXFNVVlGaUdqTlNmVFRlamlqT3ZCenFIVDJrdklZQWNZWVpRUXAwdjJLd2xhS1lXd0h4UjJKUT1dCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBRE1JTl9QT1JUOiAnOTA4MCcK</text>
+        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6IEVOQ1tQS0NTNyxNSUlCbVFZSktvWklodmNOQVFjRG9JSUJpakNDQVlZQ0FRQXhnZ0VoTUlJQkhRSUJBREFGTUFBQ0FRRXdEUVlKS29aSWh2Y05BUUVCQlFBRWdnRUFib09FcjVjSFYwZkNZZnFnSnhkVU1WRWpLZFpRVU5HVFZNZy9KM2tkUnAgICAgICAvS3VEZnhwdGozeHVpNHpleHNaYXd2Rm91YVozaWZnTGwreWZUczV4SysrNmc5Mjl2bWFHTDNMM3Faa1pXTUNUOXVqNStDck1NaEIzSWZJQmcxakQzRUtDVnRaWTdWQnErZ3kvdHNnQjI3N2NIamZ6ME44VWVaVFpvRWlGWTJIMTNmTTRiYnlaL1RVVVRObDA2YXd5VG9jb2ZzRFlEQklwdXRHNGdraS90YnNDTWEgICAgICArVHM3dEl2NWRqa3l5SktsK0VPVnJEQnoyT200YVVRZFhwTVFNMlliVHZUYzRhWXRHS2phZ0lvSVRpSHVyY0tRTG56YmVMM1RjLzNDRngwbVJzYnQ2RzhZbWZGUkpyeVd1NThqeExnODMzNmttSzJlK1ZOTXp6TE1wZ1VYOGpCY0Jna3Foa2lHOXcwQkJ3RXdIUVlKWUlaSUFXVURCQUVxQkJCc1U5bzl5am5nTHhGcVVGICAgICAgL1NUMzNlZ0RENnFBUWRERWNoTXFNVVlGaUdqTlNmVFRlamlqT3ZCenFIVDJrdklZQWNZWVpRUXAwdjJLd2xhS1lXd0h4UjJKUT1dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBBRE1JTl9QT1JUOiAnOTA4MCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRtaW5fcG9ydDogOTEwNQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
+        <text encoding="base64">ICAgICAgYWRtaW5fcG9ydDogOTEwNQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>

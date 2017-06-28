@@ -15,9 +15,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498599068568">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498684674300">
         <mark key="'" line="9" column="4" />
-        <mark key="^" line="10" column="8" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1498157840451">
         <mark key="[" line="3" column="4" />
@@ -26,14 +29,18 @@
         <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498682635032">
-        <mark key="'" line="61" column="0" />
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/reputation-defense-service.yaml" timestamp="1498685241059" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" timestamp="1498519794588">
         <mark key="'" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" timestamp="1498684907972">
+        <mark key="'" line="81" column="6" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1498174949851">
         <mark key="'" line="55" column="6" />
@@ -57,6 +64,7 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1498684334358" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="6" column="64" />
@@ -100,6 +108,7 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/site.pp" timestamp="1498684192653" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="29" column="20" />
@@ -208,19 +217,29 @@
       <jump line="9" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
       <jump line="44" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
       <jump line="61" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
+      <jump line="39" column="10" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="5" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="46" column="422" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="35" column="2" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="42" column="41" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="44" column="15" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="45" column="84" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="64" column="31" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="75" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="17" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
+      <jump line="81" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>i
-i
-i
-i</text>
+      <register name="&quot;" type="4">
+        <text>wcj</text>
       </register>
       <register name="-" type="4">
-        <text>double_quoted_strings</text>
+        <text>wcj</text>
       </register>
       <register name="/" type="4">
-        <text>docker</text>
+        <text>prod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
@@ -260,9 +279,9 @@ i</text>
       </register>
     </registers>
     <search>
-      <last-search>docker</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern>docker</last-pattern>
+      <last-pattern>prod</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -270,7 +289,6 @@ i</text>
     </search>
     <history>
       <history-search>
-        <entry>partner</entry>
         <entry>$partner</entry>
         <entry>chroot</entry>
         <entry>womply::group</entry>
@@ -286,10 +304,11 @@ i</text>
         <entry>all_aws</entry>
         <entry>cpu</entry>
         <entry>memory</entry>
-        <entry>beta</entry>
         <entry>rds</entry>
         <entry>admin_port</entry>
         <entry>docker</entry>
+        <entry>beta</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

@@ -858,6 +858,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/gettext-3.2.2/samples" />
       </SOURCES>
     </library>
+    <library name="gettext (v3.2.3, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/po" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/src" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/locale" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/po" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/src" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/locale" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-3.2.3/samples" />
+      </SOURCES>
+    </library>
     <library name="gettext-setup (v0.25, rbenv: 2.1.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/gettext-setup-0.25/lib" />
@@ -942,6 +960,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/hiera-3.3.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/hiera-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="hiera-eyaml (v2.1.0, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/sublime_text" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/hiera-eyaml-2.1.0/sublime_text" />
+      </SOURCES>
+    </library>
+    <library name="highline (v1.6.21, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/highline-1.6.21/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/highline-1.6.21/site" />
       </SOURCES>
     </library>
     <library name="hocon (v1.2.5, rbenv: 2.1.9) [gem]">
@@ -1882,6 +1924,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puppet_forge-2.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/puppet_forge-2.2.4/locales" />
+      </SOURCES>
+    </library>
+    <library name="puppet_forge (v2.2.6, rbenv: 2.1.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.6/locales" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/puppet_forge-2.2.6/locales" />
       </SOURCES>
     </library>
     <library name="puppetlabs_spec_helper (v1.2.2, rbenv: 2.1.9) [gem]">

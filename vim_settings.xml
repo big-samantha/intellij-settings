@@ -15,12 +15,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498684674300">
-        <mark key="'" line="9" column="4" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="20" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498769341078">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
         <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1498157840451">
         <mark key="[" line="3" column="4" />
@@ -94,6 +94,9 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498601739597">
         <mark key="'" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
+        <mark key="[" line="10" column="10" />
+      </file>
       <file name="/Dummy.txt" timestamp="1498766729254">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,6 +112,12 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1498698806468">
         <mark key="'" line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/site.pp" timestamp="1498684192653" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
         <mark key="[" line="28" column="32" />
@@ -122,7 +131,7 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/misc/public_key.pkcs7.pem" timestamp="1498766566812">
+      <file name="$USER_HOME$/Working/src/womply-puppet/misc/public_key.pkcs7.pem" timestamp="1498766953516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="25" />
         <mark key="^" line="17" column="25" />
@@ -239,58 +248,64 @@
       <jump line="81" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
       <jump line="152" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
       <jump line="12" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
+      <jump line="9" column="0" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
+      <jump line="29" column="1" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
+      <jump line="30" column="0" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
+      <jump line="15" column="18" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
+      <jump line="41" column="3" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="43" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wcj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNwdTogMTAK</text>
       </register>
       <register name="-" type="4">
-        <text>wcj</text>
+        <text>sdfljsdf</text>
       </register>
       <register name="/" type="4">
-        <text>lvm</text>
+        <text>CRYPT_KEY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
       </register>
-      <register name="1" type="8">
-        <text>i
-i
-i
-i</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNwdTogMTAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICByYWlzZSAnaGllcmEtZXlhbWwgaXMgbm90IGluc3RhbGxlZCwgcGxlYXNlIHJ1biBgL29wdC9wdXBwZXRsYWJzL3B1cHBldC9iaW4vZ2VtIGluc3RhbGwgaGllcmEtZXlhbWxgJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6IEVOQ1tQS0NTNyxNSUlCbVFZSktvWklodmNOQVFjRG9JSUJpakNDQVlZQ0FRQXhnZ0VoTUlJQkhRSUJBREFGTUFBQ0FRRXdEUVlKS29aSWh2Y05BUUVCQlFBRWdnRUFib09FcjVjSFYwZkNZZnFnSnhkVU1WRWpLZFpRVU5HVFZNZy9KM2tkUnAgICAgICAvS3VEZnhwdGozeHVpNHpleHNaYXd2Rm91YVozaWZnTGwreWZUczV4SysrNmc5Mjl2bWFHTDNMM3Faa1pXTUNUOXVqNStDck1NaEIzSWZJQmcxakQzRUtDVnRaWTdWQnErZ3kvdHNnQjI3N2NIamZ6ME44VWVaVFpvRWlGWTJIMTNmTTRiYnlaL1RVVVRObDA2YXd5VG9jb2ZzRFlEQklwdXRHNGdraS90YnNDTWEgICAgICArVHM3dEl2NWRqa3l5SktsK0VPVnJEQnoyT200YVVRZFhwTVFNMlliVHZUYzRhWXRHS2phZ0lvSVRpSHVyY0tRTG56YmVMM1RjLzNDRngwbVJzYnQ2RzhZbWZGUkpyeVd1NThqeExnODMzNmttSzJlK1ZOTXp6TE1wZ1VYOGpCY0Jna3Foa2lHOXcwQkJ3RXdIUVlKWUlaSUFXVURCQUVxQkJCc1U5bzl5am5nTHhGcVVGICAgICAgL1NUMzNlZ0RENnFBUWRERWNoTXFNVVlGaUdqTlNmVFRlamlqT3ZCenFIVDJrdklZQWNZWVpRUXAwdjJLd2xhS1lXd0h4UjJKUT1dCg==</text>
+        <text encoding="base64">ICByYWlzZSAnVXBzdHJlYW0gUHVwcGV0IEFnZW50IGlzIG5vdCBpbnN0YWxsZWQsIHBsZWFzZSBpbnN0YWxsIGZyb20gcHVwcGV0LmNvbScgdW5sZXNzIEZpbGVUZXh0LmV4aXN0PygnL29wdC9wdXBwZXRsYWJzL3B1cHBldC9iaW4vcHVwcGV0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBRE1JTl9QT1JUOiAnOTA4MCcK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlICdoaWVyYS1leWFtbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWRtaW5fcG9ydDogOTEwNQo=</text>
+        <text encoding="base64">ICB1bmxlc3MgRmlsZVRlc3QuZXhpc3Q/KCcvb3B0L3B1cHBldGxhYnMvcHVwcGV0L2Jpbi9oaWVyYS1leWFtbCcpID09IHRydWUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlZ2FjeV9uYW1lOiAnc3ZjMjgnCg==</text>
+      <register name="9" type="8">
+        <text>i
+i
+i
+i</text>
       </register>
       <register name=":" type="4">
         <text>365</text>
       </register>
     </registers>
     <search>
-      <last-search>lvm</last-search>
+      <last-search>CRYPT_KEY</last-search>
       <last-offset />
-      <last-pattern>lvm</last-pattern>
+      <last-pattern>CRYPT_KEY</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -298,7 +313,6 @@ i</text>
     </search>
     <history>
       <history-search>
-        <entry>chroot</entry>
         <entry>womply::group</entry>
         <entry>subnet</entry>
         <entry>sftp</entry>
@@ -318,6 +332,7 @@ i</text>
         <entry>beta</entry>
         <entry>prod</entry>
         <entry>lvm</entry>
+        <entry>CRYPT_KEY</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

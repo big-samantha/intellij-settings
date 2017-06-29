@@ -108,8 +108,8 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1498692560600">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1498698806468">
+        <mark key="'" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/site.pp" timestamp="1498684192653" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
@@ -233,7 +233,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
       <jump line="17" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
       <jump line="81" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
-      <jump line="12" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
+      <jump line="152" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
+      <jump line="12" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +244,7 @@
         <text>wcj</text>
       </register>
       <register name="/" type="4">
-        <text>prod</text>
+        <text>lvm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
@@ -283,9 +284,9 @@ i</text>
       </register>
     </registers>
     <search>
-      <last-search>prod</last-search>
+      <last-search>lvm</last-search>
       <last-offset />
-      <last-pattern>prod</last-pattern>
+      <last-pattern>lvm</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -293,7 +294,6 @@ i</text>
     </search>
     <history>
       <history-search>
-        <entry>$partner</entry>
         <entry>chroot</entry>
         <entry>womply::group</entry>
         <entry>subnet</entry>
@@ -313,6 +313,7 @@ i</text>
         <entry>docker</entry>
         <entry>beta</entry>
         <entry>prod</entry>
+        <entry>lvm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

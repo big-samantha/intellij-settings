@@ -94,10 +94,8 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1498601739597">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498682828980">
+      <file name="/Dummy.txt" timestamp="1498766729254">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" timestamp="1498519801051">
         <mark key="'" line="8" column="4" />
@@ -123,6 +121,12 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/misc/public_key.pkcs7.pem" timestamp="1498766566812">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1498601678665">
         <mark key="[" line="0" column="23" />

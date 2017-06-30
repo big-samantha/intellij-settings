@@ -28,12 +28,11 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498682635032">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="13" column="2" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498859703574">
+        <mark key="'" line="43" column="1" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/reputation-defense-service.yaml" timestamp="1498688164573" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" timestamp="1498519794588">
@@ -98,7 +97,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498858467186">
+      <file name="/Dummy.txt" timestamp="1498858621397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" timestamp="1498519801051">
@@ -258,10 +257,11 @@
       <jump line="17" column="17" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="16" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="44" column="19" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="43" column="1" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIGVudmlyb25tZW50OgojICAgICAgICBEQl9EQVRBQkFTRTogc2VydmljZQojICAgICAgICBEQl9IT1NUOiBwcmVwcm9kLXN2YzI1LXBvc3RncmVzCiMgICAgICAgIERCX1BBU1NXT1JEX0NSWVBUOiBFTkNbUEtDUzcsTUlJQm1RWUpLb1pJaHZjTkFRY0RvSUlCaWpDQ0FZWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBcjdrZHlPNHRlclV6anJSSysvYWRnMTZqWWJXOEJZSCAgICAgICMrNkxhSkNyY09RRmtMVTdaRmh5SkhXenRYYUdEdDRTWkN1TDNpQlZ2S3pSeGZqTkI3TzBpVUVNU3RaWFBTV1FkNzZIYjdBVjdnVEFzcnR0V1VrbWU2NFBiWXdJUklVY2dJM2Y5QVkrNGxTL0ZxZGZHM0JDUWg4Zkg5MkE2SXJ4VUVabTdLejMzZVYgICAgICAjK0VIMTUxc2h3ak9Ncllhb0Y5cHVPMnBMck5XUThHaWxldjN5cDBucGdubkVZNmsyN0o5TmlkOEF4a1o3UlBndnNlcFplQzBrRmV6OUNpNXMyZWNKUmtHd3NOTlczQmZVMEhIMTBXemhQd2lXSzNzQ0QzUjM5cFZjM2NiSlArUFRUTUVwK0Zwc2FZdzdaNUM4UURydjhhWWsgICAgICAjL3laM2RHQmk3djhBSEwyRmhvUHV6QmNCZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQi9JUHVwamFTbmZwMlE4SzFIWnk1b2dEQnFPelNUREN0RWZDb3hhK1dvWFREVUhuZUpNQ2ErS2c5d1E5bDFRdENaNHU1QzhHakpmVXpLRlZYOVJpREpYSUk9XQojICAgICAgICBEQl9QT1JUOiAnNTQzMicK</text>
+        <text encoding="base64">ICAjIGxpbnQ6ZW5kaWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
         <text>cash_db</text>
@@ -273,31 +273,31 @@
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIGVudmlyb25tZW50OgojICAgICAgICBEQl9EQVRBQkFTRTogc2VydmljZQojICAgICAgICBEQl9IT1NUOiBwcmVwcm9kLXN2YzI1LXBvc3RncmVzCiMgICAgICAgIERCX1BBU1NXT1JEX0NSWVBUOiBFTkNbUEtDUzcsTUlJQm1RWUpLb1pJaHZjTkFRY0RvSUlCaWpDQ0FZWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBcjdrZHlPNHRlclV6anJSSysvYWRnMTZqWWJXOEJZSCAgICAgICMrNkxhSkNyY09RRmtMVTdaRmh5SkhXenRYYUdEdDRTWkN1TDNpQlZ2S3pSeGZqTkI3TzBpVUVNU3RaWFBTV1FkNzZIYjdBVjdnVEFzcnR0V1VrbWU2NFBiWXdJUklVY2dJM2Y5QVkrNGxTL0ZxZGZHM0JDUWg4Zkg5MkE2SXJ4VUVabTdLejMzZVYgICAgICAjK0VIMTUxc2h3ak9Ncllhb0Y5cHVPMnBMck5XUThHaWxldjN5cDBucGdubkVZNmsyN0o5TmlkOEF4a1o3UlBndnNlcFplQzBrRmV6OUNpNXMyZWNKUmtHd3NOTlczQmZVMEhIMTBXemhQd2lXSzNzQ0QzUjM5cFZjM2NiSlArUFRUTUVwK0Zwc2FZdzdaNUM4UURydjhhWWsgICAgICAjL3laM2RHQmk3djhBSEwyRmhvUHV6QmNCZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQi9JUHVwamFTbmZwMlE4SzFIWnk1b2dEQnFPelNUREN0RWZDb3hhK1dvWFREVUhuZUpNQ2ErS2c5d1E5bDFRdENaNHU1QzhHakpmVXpLRlZYOVJpREpYSUk9XQojICAgICAgICBEQl9QT1JUOiAnNTQzMicK</text>
+        <text encoding="base64">ICAjIGxpbnQ6ZW5kaWdub3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTRVJWSUNFX1BPUlQ6ICc4MDgwJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHTFlfVE9LRU46ICdFTkMoTXRaOE1jVitwSlJHWWxzMnJFa3RtVDVKWmowalQyTWFnWW5VaG4yM3VQNmpyMXV2KScK</text>
+        <text encoding="base64">IyAgICAgIGVudmlyb25tZW50OgojICAgICAgICBEQl9EQVRBQkFTRTogc2VydmljZQojICAgICAgICBEQl9IT1NUOiBwcmVwcm9kLXN2YzI1LXBvc3RncmVzCiMgICAgICAgIERCX1BBU1NXT1JEX0NSWVBUOiBFTkNbUEtDUzcsTUlJQm1RWUpLb1pJaHZjTkFRY0RvSUlCaWpDQ0FZWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBcjdrZHlPNHRlclV6anJSSysvYWRnMTZqWWJXOEJZSCAgICAgICMrNkxhSkNyY09RRmtMVTdaRmh5SkhXenRYYUdEdDRTWkN1TDNpQlZ2S3pSeGZqTkI3TzBpVUVNU3RaWFBTV1FkNzZIYjdBVjdnVEFzcnR0V1VrbWU2NFBiWXdJUklVY2dJM2Y5QVkrNGxTL0ZxZGZHM0JDUWg4Zkg5MkE2SXJ4VUVabTdLejMzZVYgICAgICAjK0VIMTUxc2h3ak9Ncllhb0Y5cHVPMnBMck5XUThHaWxldjN5cDBucGdubkVZNmsyN0o5TmlkOEF4a1o3UlBndnNlcFplQzBrRmV6OUNpNXMyZWNKUmtHd3NOTlczQmZVMEhIMTBXemhQd2lXSzNzQ0QzUjM5cFZjM2NiSlArUFRUTUVwK0Zwc2FZdzdaNUM4UURydjhhWWsgICAgICAjL3laM2RHQmk3djhBSEwyRmhvUHV6QmNCZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQi9JUHVwamFTbmZwMlE4SzFIWnk1b2dEQnFPelNUREN0RWZDb3hhK1dvWFREVUhuZUpNQ2ErS2c5d1E5bDFRdENaNHU1QzhHakpmVXpLRlZYOVJpREpYSUk9XQojICAgICAgICBEQl9QT1JUOiAnNTQzMicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEQl9VU0VSOiBzdmMyNQo=</text>
+        <text encoding="base64">ICAgICAgICBTRVJWSUNFX1BPUlQ6ICc4MDgwJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQUk9EVUNUX1NFUlZJQ0VfQUREUkVTUzogJ2h0dHA6Ly9wcm9kdWN0LXNlcnZpY2UuYWxwaGEnCg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHTFlfVE9LRU46ICdFTkMoTXRaOE1jVitwSlJHWWxzMnJFa3RtVDVKWmowalQyTWFnWW5VaG4yM3VQNmpyMXV2KScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNRVJDSEFOVF9TRVJWSUNFX0FERFJFU1M6ICdodHRwOi8vbWVyY2hhbnQtc2VydmljZS5hbHBoYScK</text>
+        <text encoding="base64">ICAgICAgICBEQl9VU0VSOiBzdmMyNQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVU0VSX1NFUlZJQ0VfQUREUkVTUzogJ3VzZXItc2VydmljZS5iZXRhJwo=</text>
+        <text encoding="base64">ICAgICAgICBQUk9EVUNUX1NFUlZJQ0VfQUREUkVTUzogJ2h0dHA6Ly9wcm9kdWN0LXNlcnZpY2UuYWxwaGEnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3B1OiAxMAo=</text>
+        <text encoding="base64">ICAgICAgICBNRVJDSEFOVF9TRVJWSUNFX0FERFJFU1M6ICdodHRwOi8vbWVyY2hhbnQtc2VydmljZS5hbHBoYScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNwdTogMTAK</text>
+        <text encoding="base64">ICAgICAgICBVU0VSX1NFUlZJQ0VfQUREUkVTUzogJ3VzZXItc2VydmljZS5iZXRhJwo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>

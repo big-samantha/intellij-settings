@@ -15,6 +15,13 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498847198363">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/rubymine.vmoptions" timestamp="1498157840451">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -249,13 +256,14 @@
       <jump line="43" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="17" column="17" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="16" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="44" column="19" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preprod-svc25-postgres</text>
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>preprod-svc25-postgres</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>CRYPT_KEY</text>
@@ -264,34 +272,31 @@
         <text encoding="base64">ICBpbmlfc2V0dGluZyB7ICdhd3NfcHJvdmlzaW9uaW5nLXN0YWNrdHJhY2UnOgogICAgZW5zdXJlID0+IHByZXNlbnQsCiAgICBwYXRoID0+ICcvZXRjL3B1cHBldGxhYnMvcHVwcGV0L3B1cHBldC5jb25mJywKICAgIHNlY3Rpb24gPT4gJ21haW4nLAogICAgc2V0dGluZyA9PiAndHJhY2UnLAogICAgdmFsdWUgPT4gJ3RydWUnLAogIH0K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY3B1OiAxMAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNwdTogMTAK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICByYWlzZSAnaGllcmEtZXlhbWwgaXMgbm90IGluc3RhbGxlZCwgcGxlYXNlIHJ1biBgL29wdC9wdXBwZXRsYWJzL3B1cHBldC9iaW4vZ2VtIGluc3RhbGwgaGllcmEtZXlhbWxgJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICByYWlzZSAnVXBzdHJlYW0gUHVwcGV0IEFnZW50IGlzIG5vdCBpbnN0YWxsZWQsIHBsZWFzZSBpbnN0YWxsIGZyb20gcHVwcGV0LmNvbScgdW5sZXNzIEZpbGVUZXh0LmV4aXN0PygnL29wdC9wdXBwZXRsYWJzL3B1cHBldC9iaW4vcHVwcGV0JykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHJhaXNlICdoaWVyYS1leWFtbCcK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICB1bmxlc3MgRmlsZVRlc3QuZXhpc3Q/KCcvb3B0L3B1cHBldGxhYnMvcHVwcGV0L2Jpbi9oaWVyYS1leWFtbCcpID09IHRydWUK</text>
-      </register>
-      <register name="9" type="8">
-        <text>i
-i
-i
-i</text>
       </register>
       <register name=":" type="4">
         <text>46</text>

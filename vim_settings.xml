@@ -55,6 +55,7 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/notes/setup_notes.md" timestamp="1499365084340" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="21" />

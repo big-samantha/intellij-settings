@@ -55,7 +55,6 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/notes/setup_notes.md" timestamp="1499365084340" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/etl.pp" timestamp="1497482892917">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="21" />
@@ -76,13 +75,15 @@
         <mark key="^" line="40" column="109" />
         <mark key="." line="40" column="109" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/social-data-service.yaml" timestamp="1499387447051" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/swiper-service.yaml" timestamp="1498862746508">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="36" column="55" />
         <mark key="]" line="36" column="58" />
         <mark key="." line="36" column="58" />
         <mark key="^" line="36" column="58" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/puppet/master.pp" timestamp="1498601469539">
         <mark key="[" line="67" column="3" />

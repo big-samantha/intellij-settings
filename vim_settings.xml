@@ -132,11 +132,12 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499452038245">
+      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499458401389">
         <mark key="'" line="96" column="284" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+        <mark key="[" line="143" column="7" />
+        <mark key="]" line="143" column="9" />
+        <mark key="." line="143" column="9" />
+        <mark key="^" line="143" column="9" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1498698806468">
         <mark key="'" line="12" column="10" />
@@ -294,11 +295,11 @@
       <jump line="86" column="284" filename="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>if I</text>

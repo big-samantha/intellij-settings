@@ -68,6 +68,7 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/insights_partners.yaml" timestamp="1499792539544" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="6" column="64" />
@@ -152,6 +153,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/insightspartners.pp" timestamp="1499792601735" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1498520018287">
         <mark key="[" line="28" column="32" />
         <mark key="]" line="29" column="20" />
@@ -410,6 +412,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

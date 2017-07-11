@@ -44,7 +44,13 @@
         <mark key="^" line="40" column="109" />
         <mark key="." line="40" column="109" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499794155268" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="223" column="5" />
+        <mark key="]" line="223" column="42" />
+        <mark key="^" line="223" column="42" />
+        <mark key="." line="223" column="42" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/swiper-service.yaml" timestamp="1498862746508">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="36" column="55" />
@@ -115,11 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="11" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="62" column="16" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="194" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="15" column="24" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="19" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="121" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="123" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="139" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
@@ -215,55 +216,60 @@
       <jump line="62" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" />
       <jump line="170" column="664" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" />
       <jump line="63" column="389" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" />
+      <jump line="182" column="11" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
+      <jump line="126" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
+      <jump line="131" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
+      <jump line="150" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
+      <jump line="59" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>Really long loop over each partner. ##</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>Really long loop over each partner. ##</text>
       </register>
       <register name="/" type="4">
-        <text>comments</text>
+        <text>context</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNmdHBfcHVia2V5czoKICAgICAgLSAnc3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFESG9TYWxFQ0ZiVlU5Z0RQVG5XMXorOGFQRWJib3k5UEdYMDJ2YngwVEtOdXFQZktPeTFWdDY2V3B0Y2lEdkwzTkpTNWJjZWN2aXBhMUdaMktwMFE0bHNpNFVkYTg5UzJsS2FFekxwamY1LzhOWG5SdEVNUjdlVjJ1MGZMNkpaY1QvRHBVWHpBN1BQV1ZaNi9ZMlV1a3FXdlBHQlZiajZwUzkzbUF1Q1Y3TEx0NUE0WHZUQnMweU5JUzkyc2c2OElIY2ppbE14N2l2Vlh6NlVjMTc4eldqUlQrZ3NDcTUxcUJiVUpDWVNPbzNDL2FuQng1K0NLWm9MT24rcU9ZVnVUSTR6U1lIaG8vTGhINUt2d1B6QU03R05PMTRUbC9uZFdEVFVmWVMxNEFTVVdVNm1WZWhHRytONTFjaGsyZGJuVkJxNWpkSkdaOS8xem8wZzhRRlA1ejMnCg==</text>
+      <register name="0" type="4">
+        <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIEVuZCBvZiBsb25nIHBlci1wYXJ0bmVyIGxvb3AuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNmdHBfcHVia2V5czoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KipQUnMgV0VMQ09NRSBBTkQgRU5DT1VSQUdFRCoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgIHNmdHBfcHVia2V5czoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNwdTogOAo=</text>
+        <text encoding="base64">KipQUnMgV0VMQ09NRSBBTkQgRU5DT1VSQUdFRCoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KkV4YW1wbGU6Kgo=</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgCiAgCmFkc2tsamFzZGEKCiAgKiBhc2Rhc2RhCiAgKiBkYXNkYWQ=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNwdTogOAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SW4gcHJvZCwgYWxsIHNldHRpbmdzIHdpbGwgYmUgaW5oZXJpdGVkIGZyb20gYmV0YSwgd2hpY2ggaXRzZWxmIGluaGVyaXRzIHRoZSBtZW1vcnkgc2V0dGluZyAK</text>
+        <text encoding="base64">KkV4YW1wbGU6Kgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Kk5vdGU6Kgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgCiAgCmFkc2tsamFzZGEKCiAgKiBhc2Rhc2RhCiAgKiBkYXNkYWQ=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>comments</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>comments</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -271,9 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sfdata</entry>
-        <entry>womply::user_data</entry>
-        <entry>aws</entry>
         <entry>aws_base</entry>
         <entry>all_aws</entry>
         <entry>cpu</entry>
@@ -291,6 +294,9 @@
         <entry>environment)</entry>
         <entry>client-0021</entry>
         <entry>comments</entry>
+        <entry>ssh_auth</entry>
+        <entry>loop</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

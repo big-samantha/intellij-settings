@@ -17,12 +17,11 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" timestamp="1499884302244">
+      <file name="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" timestamp="1499888521487">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498859703574">
         <mark key="[" line="29" column="0" />
@@ -226,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
+        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>replacemeatruntime</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -238,31 +237,31 @@
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
+        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICYmIGxuIC1zIC9vcHQK</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
+        <text encoding="base64">ICAgICYmIGxuIC1zIC9vcHQK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
+        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

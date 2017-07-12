@@ -17,11 +17,19 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" timestamp="1499884302244">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498859703574">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-docker/README.md" timestamp="1499881565749" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/telephony-service.yaml" timestamp="1498860758857">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="13" />
@@ -71,7 +79,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499880227846">
+      <file name="/Dummy.txt" timestamp="1499882553179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/testproject/testproject/metadata.json" timestamp="1499290715430">
@@ -115,8 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="123" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="139" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
       <jump line="478" column="12" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="642" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
@@ -215,13 +221,15 @@
       <jump line="131" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
       <jump line="150" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
       <jump line="59" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
+      <jump line="2" column="0" filename="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Really long loop over each partner. ##</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Really long loop over each partner. ##</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -230,31 +238,31 @@
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIEVuZCBvZiBsb25nIHBlci1wYXJ0bmVyIGxvb3AuCg==</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNmdHBfcHVia2V5czoK</text>
+        <text encoding="base64">ICAgICYmIGxuIC1zIC9vcHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KipQUnMgV0VMQ09NRSBBTkQgRU5DT1VSQUdFRCoqCg==</text>
+        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNwdTogOAo=</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KkV4YW1wbGU6Kgo=</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgCiAgCmFkc2tsamFzZGEKCiAgKiBhc2Rhc2RhCiAgKiBkYXNkYWQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

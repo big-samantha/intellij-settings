@@ -29,7 +29,6 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1499813065742" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
         <mark key="'" line="19" column="13" />
         <mark key="[" line="39" column="34" />
@@ -72,7 +71,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499816118388">
+      <file name="/Dummy.txt" timestamp="1499880227846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/testproject/testproject/metadata.json" timestamp="1499290715430">
@@ -80,9 +79,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/rds.yaml" timestamp="1499815909955" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-graph-service.yaml" timestamp="1499812991253" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/monitoring/tls_certificate.pp" timestamp="1499874310907" />
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499469407797">
         <mark key="'" line="332" column="67" />
         <mark key="[" line="327" column="176" />

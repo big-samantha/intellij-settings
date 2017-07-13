@@ -88,11 +88,11 @@
         <mark key="'" line="91" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1499969052413" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499469407797">
+      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499975505269">
         <mark key="'" line="332" column="67" />
-        <mark key="[" line="327" column="176" />
-        <mark key="]" line="327" column="176" />
-        <mark key="." line="327" column="176" />
+        <mark key="[" line="9" column="153" />
+        <mark key="]" line="9" column="153" />
+        <mark key="." line="9" column="153" />
         <mark key="^" line="327" column="176" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1499459678787">
@@ -229,11 +229,11 @@
       <jump line="68" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>s3</text>

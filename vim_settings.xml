@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/aws/userdata.pp" timestamp="1499899945885">
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1498858434149">
         <mark key="'" line="44" column="19" />
         <mark key="[" line="52" column="0" />
@@ -23,12 +29,18 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1498859703574">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1499896341062">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-docker/README.md" timestamp="1499881565749" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1499898527951">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="0" />
+        <mark key="." line="318" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/telephony-service.yaml" timestamp="1498860758857">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="13" />
@@ -36,6 +48,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1499899326749" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
         <mark key="'" line="19" column="13" />
         <mark key="[" line="39" column="34" />
@@ -43,6 +56,8 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1499900237180" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1499900184803" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="6" column="64" />
@@ -63,11 +78,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/login-service.yaml" timestamp="1498860650465">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1498521081811">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="6" column="17" />
@@ -78,13 +88,9 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499882553179">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/subnets.yaml" timestamp="1499899130900" />
+      <file name="/Dummy.txt" timestamp="1499898930173">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/testproject/testproject/metadata.json" timestamp="1499290715430">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1499469407797">
         <mark key="'" line="332" column="67" />
@@ -106,8 +112,15 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1498601678665">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
         <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" timestamp="1499900110431">
+        <mark key="'" line="19" column="10" />
+        <mark key="[" line="60" column="64" />
+        <mark key="]" line="61" column="79" />
+        <mark key="." line="61" column="79" />
+        <mark key="^" line="61" column="79" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" timestamp="1498519939735">
         <mark key="'" line="3" column="11" />
@@ -116,18 +129,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/partner-service.yaml" timestamp="1499462783635">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="20" column="25" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/matchdata_intake.pp" />
-      <jump line="478" column="12" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="642" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="22" column="1" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
-      <jump line="29" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
-      <jump line="77" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/os/linux/centos.pp" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" />
       <jump line="18" column="13" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" />
       <jump line="19" column="13" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" />
@@ -222,55 +225,61 @@
       <jump line="59" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" />
       <jump line="2" column="0" filename="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" />
+      <jump line="321" column="17" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" />
+      <jump line="342" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" />
+      <jump line="1" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" />
+      <jump line="79" column="42" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
+      <jump line="82" column="26" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
+      <jump line="19" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>replacemeatruntime</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>default_instance_type</text>
       </register>
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaWYgJGZxZG4gCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdXMK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
+        <text encoding="base64">ICAgICMgW0RPUFMtMjAxNl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICYmIGxuIC1zIC9vcHQK</text>
+        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
+        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICYmIC9vcHQvcHVwcGV0bGFicy9wdXBwZXQvYmluL2dlbSBpbnN0YWxsIGF3cy1zZGstY29yZSByZXRyaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
+        <text encoding="base64">ICAgICYmIGxuIC1zIC9vcHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>default_instance_type</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>default_instance_type</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -278,8 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>aws_base</entry>
-        <entry>all_aws</entry>
         <entry>cpu</entry>
         <entry>memory</entry>
         <entry>rds</entry>
@@ -298,6 +305,8 @@
         <entry>ssh_auth</entry>
         <entry>loop</entry>
         <entry>context</entry>
+        <entry>securitygroup</entry>
+        <entry>default_instance_type</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

@@ -40,6 +40,9 @@
         <mark key="]" line="318" column="0" />
         <mark key="." line="318" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1500063481439">
+        <mark key="'" line="58" column="6" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/telephony-service.yaml" timestamp="1498860758857">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="27" column="13" />
@@ -90,7 +93,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1499967254899">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500055485608">
+      <file name="/Dummy.txt" timestamp="1500062766524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -113,6 +116,8 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_admin_postgres.pp" timestamp="1500062870924" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500063397908" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
         <mark key="[" line="0" column="23" />
       </file>
@@ -132,9 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
-      <jump line="4" column="1" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
-      <jump line="14" column="3" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
       <jump line="3" column="11" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" />
       <jump line="68" column="25" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="259" column="18" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
@@ -232,6 +234,9 @@
       <jump line="41" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="43" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="68" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="33" column="34" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
+      <jump line="37" column="36" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
+      <jump line="58" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -241,7 +246,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>redonly_users</text>
+        <text>alpha</text>
       </register>
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
@@ -278,9 +283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redonly_users</last-search>
+      <last-search>alpha</last-search>
       <last-offset />
-      <last-pattern>redonly_users</last-pattern>
+      <last-pattern>alpha</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +293,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rds</entry>
         <entry>admin_port</entry>
         <entry>docker</entry>
         <entry>beta</entry>
@@ -308,6 +312,7 @@
         <entry>default_instance_type</entry>
         <entry>s3</entry>
         <entry>redonly_users</entry>
+        <entry>alpha</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

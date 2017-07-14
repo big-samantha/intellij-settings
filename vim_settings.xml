@@ -47,6 +47,9 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
+        <mark key="[" line="10" column="37" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
         <mark key="'" line="19" column="13" />
         <mark key="[" line="39" column="34" />
@@ -87,7 +90,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1499967254899">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500052618416">
+      <file name="/Dummy.txt" timestamp="1500055485608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -238,7 +241,7 @@
         <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>s3</text>
+        <text>redonly_users</text>
       </register>
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
@@ -275,9 +278,9 @@
       </register>
     </registers>
     <search>
-      <last-search>s3</last-search>
+      <last-search>redonly_users</last-search>
       <last-offset />
-      <last-pattern>s3</last-pattern>
+      <last-pattern>redonly_users</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -285,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>memory</entry>
         <entry>rds</entry>
         <entry>admin_port</entry>
         <entry>docker</entry>
@@ -305,6 +307,7 @@
         <entry>securitygroup</entry>
         <entry>default_instance_type</entry>
         <entry>s3</entry>
+        <entry>redonly_users</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

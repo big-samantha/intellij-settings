@@ -118,6 +118,7 @@
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_admin_postgres.pp" timestamp="1500062870924" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500063397908" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-engagement-service.yaml" timestamp="1500064625807" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
         <mark key="[" line="0" column="23" />
       </file>

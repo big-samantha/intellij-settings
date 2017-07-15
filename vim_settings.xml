@@ -23,22 +23,17 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-docker/images/devops/puppetawstester/Dockerfile" timestamp="1499888521487">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1499896341062">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1499898527951">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1500078334466">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+        <mark key="[" line="337" column="0" />
+        <mark key="]" line="337" column="0" />
+        <mark key="^" line="337" column="7" />
+        <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1500063481439">
         <mark key="'" line="58" column="6" />
@@ -93,7 +88,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1499967254899">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500067242828">
+      <file name="/Dummy.txt" timestamp="1500078033184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -241,8 +236,8 @@
       <jump line="58" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -253,32 +248,32 @@
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgJGZxZG4gCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXMK</text>
+        <text encoding="base64">ICAgIGlmICRjaWRycyB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgW0RPUFMtMjAxNl0K</text>
+        <text encoding="base64">ICAgIGFzc2VydF90eXBlKEFycmF5W1N0cmluZywxXSwkY2lkcnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIFNQRUNJQUxWQVI9c3BlY2lhbHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIHl1bSBpbnN0YWxsIC1xIC15IGdpdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>41</text>

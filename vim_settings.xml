@@ -17,11 +17,6 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1499896341062">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1500316093257">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />
@@ -49,7 +44,7 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500330019314" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500330792188" />
       <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="6" column="64" />
@@ -83,7 +78,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1499967254899">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500329788061">
+      <file name="/Dummy.txt" timestamp="1500331205029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -100,6 +95,7 @@
         <mark key="^" line="15" column="9" />
         <mark key="." line="15" column="9" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/ads-service.yaml" timestamp="1500331116700" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
         <mark key="[" line="0" column="0" />
       </file>

@@ -75,12 +75,13 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500331930973">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500333356030">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500331911541">
+      <file name="/Dummy.txt" timestamp="1500333260452">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-graph-service.yaml" timestamp="1500333637131" />
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
         <mark key="'" line="332" column="67" />
         <mark key="[" line="9" column="153" />
@@ -103,9 +104,11 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_admin_postgres.pp" timestamp="1500062870924" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500063397908" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500333281047">
+        <mark key="'" line="20" column="3" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-engagement-service.yaml" timestamp="1500064625807" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/dbadmin.pp" timestamp="1500331914497">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/dbadmin.pp" timestamp="1500333241863">
         <mark key="m" line="64" column="39" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
@@ -128,11 +131,6 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/billing-service.yaml" timestamp="1500073799662" />
     </filemarks>
     <jumps>
-      <jump line="55" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
-      <jump line="44" column="0" filename="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" />
-      <jump line="15" column="46" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
-      <jump line="39" column="569" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
-      <jump line="4" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
       <jump line="5" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
       <jump line="46" column="21" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
       <jump line="29" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
@@ -228,6 +226,11 @@
       <jump line="68" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="2" column="2" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="41" column="1" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
+      <jump line="39" column="38" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
+      <jump line="3" column="32" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
+      <jump line="7" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
+      <jump line="15" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
+      <jump line="20" column="3" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -237,7 +240,7 @@
         <text>'ENC(lciojysfO4pEaKEQb/GKg9lJGtbL5wbKBg==)'</text>
       </register>
       <register name="/" type="4">
-        <text>beta</text>
+        <text>password</text>
       </register>
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
@@ -274,9 +277,9 @@
       </register>
     </registers>
     <search>
-      <last-search>beta</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern>beta</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -284,7 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin_port</entry>
         <entry>docker</entry>
         <entry>prod</entry>
         <entry>lvm</entry>
@@ -304,6 +306,7 @@
         <entry>redonly_users</entry>
         <entry>alpha</entry>
         <entry>beta</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

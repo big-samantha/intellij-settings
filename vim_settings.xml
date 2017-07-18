@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1500329388027" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1500413316537">
+        <mark key="[" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" timestamp="1500401203346">
         <mark key="'" line="63" column="389" />
         <mark key="[" line="181" column="22" />
@@ -21,40 +23,15 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1500063481439">
         <mark key="'" line="58" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/telephony-service.yaml" timestamp="1498860758857">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="18" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" timestamp="1500413330721">
+        <mark key="'" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/matchdata_intake.pp" timestamp="1497906385196">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="53" />
-        <mark key="." line="39" column="53" />
-        <mark key="^" line="39" column="53" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500330792188" />
-      <file name="$USER_HOME$/Working/src/womply-aws/scripts/update_vault_for_whs.sh" timestamp="1498511357945">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="40" column="109" />
-        <mark key="^" line="40" column="109" />
-        <mark key="." line="40" column="109" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
         <mark key="'" line="59" column="2" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/swiper-service.yaml" timestamp="1499891191506">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="58" />
-        <mark key="." line="36" column="58" />
-        <mark key="^" line="36" column="58" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
         <mark key="[" line="0" column="0" />
@@ -72,7 +49,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500333356030">
         <mark key="'" line="91" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500400651258">
+      <file name="/Dummy.txt" timestamp="1500413075436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-graph-service.yaml" timestamp="1500333637131" />
@@ -82,13 +59,6 @@
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" timestamp="1499459678787">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/ads-service.yaml" timestamp="1500331116700" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
@@ -108,26 +78,9 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" timestamp="1499900110431">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="60" column="64" />
-        <mark key="]" line="61" column="79" />
-        <mark key="." line="61" column="79" />
-        <mark key="^" line="61" column="79" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/womply-hash-service.yaml" timestamp="1498519939735">
-        <mark key="'" line="3" column="11" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="3" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/billing-service.yaml" timestamp="1500073799662" />
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/bizshield-service.yaml" />
-      <jump line="46" column="21" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
-      <jump line="29" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/business-service.yaml" />
       <jump line="5" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
       <jump line="8" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/vericode-service.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" />
@@ -225,6 +178,9 @@
       <jump line="7" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
       <jump line="15" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
       <jump line="20" column="3" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
+      <jump line="17" column="45" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
+      <jump line="33" column="35" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -234,7 +190,7 @@
         <text>'ENC(lciojysfO4pEaKEQb/GKg9lJGtbL5wbKBg==)'</text>
       </register>
       <register name="/" type="4">
-        <text>password</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
@@ -271,9 +227,9 @@
       </register>
     </registers>
     <search>
-      <last-search>password</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern>password</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -281,7 +237,6 @@
     </search>
     <history>
       <history-search>
-        <entry>docker</entry>
         <entry>prod</entry>
         <entry>lvm</entry>
         <entry>CRYPT_KEY</entry>
@@ -301,6 +256,7 @@
         <entry>alpha</entry>
         <entry>beta</entry>
         <entry>password</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>%s/${partner}/${user}/g</entry>

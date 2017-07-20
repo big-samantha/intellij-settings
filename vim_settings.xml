@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1500503778236" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/s3_access.pp" timestamp="1500580901764">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1500413316537">
         <mark key="[" line="31" column="23" />
       </file>
@@ -14,6 +19,7 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/iam/policy_full_access_s3_directories.json.epp" timestamp="1500580859299" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1500316093257">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />
@@ -36,7 +42,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" timestamp="1500575920093">
+      <file name="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" timestamp="1500580032448">
         <mark key="'" line="86" column="5" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1499970279099">
@@ -49,14 +55,14 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
         <mark key="[" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500570249112">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500581654182">
         <mark key="'" line="91" column="4" />
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="74" column="52" />
-        <mark key="." line="74" column="9" />
+        <mark key="[" line="118" column="57" />
+        <mark key="]" line="118" column="58" />
+        <mark key="." line="118" column="57" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/monitoring/womply.pp" timestamp="1500570348425" />
-      <file name="/Dummy.txt" timestamp="1500575758366">
+      <file name="/Dummy.txt" timestamp="1500581532669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -186,10 +192,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'ENC(lciojysfO4pEaKEQb/GKg9lJGtbL5wbKBg==)'</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>'ENC(lciojysfO4pEaKEQb/GKg9lJGtbL5wbKBg==)'</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>s3</text>

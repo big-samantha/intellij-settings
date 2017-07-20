@@ -3,7 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/role/manifests/server/sftp.pp" timestamp="1500503778236" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
+        <mark key="[" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500582355135">
+        <mark key="'" line="91" column="4" />
+        <mark key="[" line="124" column="23" />
+        <mark key="]" line="125" column="36" />
+        <mark key="." line="125" column="36" />
+        <mark key="^" line="125" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500582315018">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/s3_access.pp" timestamp="1500580901764">
         <mark key="[" line="14" column="46" />
         <mark key="]" line="14" column="46" />
@@ -19,7 +31,16 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/iam/policy_full_access_s3_directories.json.epp" timestamp="1500580859299" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
+        <mark key="'" line="332" column="67" />
+        <mark key="[" line="9" column="153" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1500316093257">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />
@@ -30,11 +51,23 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1500063481439">
         <mark key="'" line="58" column="6" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" timestamp="1500413330721">
         <mark key="'" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
         <mark key="[" line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500333281047">
+        <mark key="'" line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/dbadmin.pp" timestamp="1500333241863">
+        <mark key="m" line="64" column="39" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
         <mark key="'" line="59" column="2" />
@@ -51,41 +84,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
-        <mark key="[" line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1500581654182">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="118" column="57" />
-        <mark key="]" line="118" column="58" />
-        <mark key="." line="118" column="57" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/monitoring/womply.pp" timestamp="1500570348425" />
-      <file name="/Dummy.txt" timestamp="1500581532669">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
-        <mark key="'" line="332" column="67" />
-        <mark key="[" line="9" column="153" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500333281047">
-        <mark key="'" line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/dbadmin.pp" timestamp="1500333241863">
-        <mark key="m" line="64" column="39" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1499900120204">
-        <mark key="[" line="0" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -191,8 +189,8 @@
       <jump line="86" column="5" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -203,32 +201,32 @@
       <register name="0" type="4">
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6ICdFTkNbUEtDUzcsTUlJQmlRWUpLb1pJaHZjTkFRY0RvSUlCZWpDQ0FYWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBczJyRmlLYnBDYStkbWJZQ0Ywd1ZNQnQ0ejZvVHhGTlhscm0rMmh1RjI5cnFoTlpzWkk5bmszeDJ2Njd4ejJpdXhTOER6dHdUNE1nRW82NGdSRmJXK1l3YVVYK0RFdmdHQ0ZqU1VpNmVwdmhDdk1GbXY3U3RQRG1VUjZPNUExb2lBQTRGaXBvWWNEYzNTSTFQVnhaNEFWU2FRWnVTbXVHRGxuK0JUOU83Z283K0NoU3JFQlVSSHlwd0FJSjRQcmRQbU9HU3A1U2RaVVpPczFqWVR2cFhJbkt6YVprSnlWN2FiN2xIaFJNQzNZZ1FuQ1JvbmE1MDE1ZHNFS3hjQjVscVZCY1lpVVlJZTU3VW1CczFQeWVyTlpCc0E0dmlISFdLNWJKbE4rVXBqQzEybksxNGFPeEREQWFMMGg4bjdSOTZSNndzUWcrYUNvL294Q0lodGEvRGx6Qk1CZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQzhXVEJ0dGZPKytJVnpMUDZhYUVSZGdDRGRONVd4N3QyMHRlV2M0aUpYdW5HbzA4NSt3amFncnRBZjdBY0NkT0dpUXc9PV0nCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6ICdFTkNbUEtDUzcsTUlJQmlRWUpLb1pJaHZjTkFRY0RvSUlCZWpDQ0FYWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBczJyRmlLYnBDYStkbWJZQ0Ywd1ZNQnQ0ejZvVHhGTlhscm0rMmh1RjI5cnFoTlpzWkk5bmszeDJ2Njd4ejJpdXhTOER6dHdUNE1nRW82NGdSRmJXK1l3YVVYK0RFdmdHQ0ZqU1VpNmVwdmhDdk1GbXY3U3RQRG1VUjZPNUExb2lBQTRGaXBvWWNEYzNTSTFQVnhaNEFWU2FRWnVTbXVHRGxuK0JUOU83Z283K0NoU3JFQlVSSHlwd0FJSjRQcmRQbU9HU3A1U2RaVVpPczFqWVR2cFhJbkt6YVprSnlWN2FiN2xIaFJNQzNZZ1FuQ1JvbmE1MDE1ZHNFS3hjQjVscVZCY1lpVVlJZTU3VW1CczFQeWVyTlpCc0E0dmlISFdLNWJKbE4rVXBqQzEybksxNGFPeEREQWFMMGg4bjdSOTZSNndzUWcrYUNvL294Q0lodGEvRGx6Qk1CZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQzhXVEJ0dGZPKytJVnpMUDZhYUVSZGdDRGRONVd4N3QyMHRlV2M0aUpYdW5HbzA4NSt3amFncnRBZjdBY0NkT0dpUXc9PV0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICRjaWRycyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90eXBlKEFycmF5W1N0cmluZywxXSwkY2lkcnMpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmICRjaWRycyB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>67</text>

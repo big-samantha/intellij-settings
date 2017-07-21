@@ -1736,18 +1736,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.9-cleanroom/lib/ruby/gems/2.1.0/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
-    <library name="pdk (v0.1.0, rbenv: 2.1.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/locales" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/exe" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.1.9/lib/ruby/gems/2.1.0/gems/pdk-0.1.0/locales" />
-      </SOURCES>
-    </library>
     <library name="power_assert (v0.4.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/power_assert-0.4.1/lib" />

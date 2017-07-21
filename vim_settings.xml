@@ -47,12 +47,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1500662848808">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1500664935359">
         <mark key="'" line="94" column="0" />
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="40" />
-        <mark key="." line="17" column="40" />
-        <mark key="^" line="17" column="64" />
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="22" />
+        <mark key="." line="83" column="22" />
+        <mark key="^" line="83" column="22" />
       </file>
       <file name="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" timestamp="1500657257553">
         <mark key="'" line="86" column="5" />
@@ -73,6 +73,9 @@
         <mark key="]" line="125" column="36" />
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500665059608">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/bastion.pp" timestamp="1500662651311" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/provisioner.pp" timestamp="1500661934436" />
@@ -206,10 +209,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdwcm9kJ11bJ2luc3RhbmNlX3R5cGUnXSw=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICdwcm9kJ11bJ2luc3RhbmNlX3R5cGUnXSw=</text>
       </register>
       <register name="/" type="4">
         <text>hvm</text>

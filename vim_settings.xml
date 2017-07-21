@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" timestamp="1500668930951">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/s3_access.pp" timestamp="1500580901764">
         <mark key="[" line="14" column="46" />
         <mark key="]" line="14" column="46" />
@@ -89,6 +95,7 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/Rakefile" timestamp="1500667508002" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICdwcm9kJ11bJ2luc3RhbmNlX3R5cGUnXSw=</text>
+        <text>full_command</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICdwcm9kJ11bJ2luc3RhbmNlX3R5cGUnXSw=</text>
+        <text>full_command</text>
       </register>
       <register name="/" type="4">
         <text>hvm</text>
@@ -221,31 +228,31 @@
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDUllQVF9LRVk6ICdFTkNbUEtDUzcsTUlJQmlRWUpLb1pJaHZjTkFRY0RvSUlCZWpDQ0FYWUNBUUF4Z2dFaE1JSUJIUUlCQURBRk1BQUNBUUV3RFFZSktvWklodmNOQVFFQkJRQUVnZ0VBczJyRmlLYnBDYStkbWJZQ0Ywd1ZNQnQ0ejZvVHhGTlhscm0rMmh1RjI5cnFoTlpzWkk5bmszeDJ2Njd4ejJpdXhTOER6dHdUNE1nRW82NGdSRmJXK1l3YVVYK0RFdmdHQ0ZqU1VpNmVwdmhDdk1GbXY3U3RQRG1VUjZPNUExb2lBQTRGaXBvWWNEYzNTSTFQVnhaNEFWU2FRWnVTbXVHRGxuK0JUOU83Z283K0NoU3JFQlVSSHlwd0FJSjRQcmRQbU9HU3A1U2RaVVpPczFqWVR2cFhJbkt6YVprSnlWN2FiN2xIaFJNQzNZZ1FuQ1JvbmE1MDE1ZHNFS3hjQjVscVZCY1lpVVlJZTU3VW1CczFQeWVyTlpCc0E0dmlISFdLNWJKbE4rVXBqQzEybksxNGFPeEREQWFMMGg4bjdSOTZSNndzUWcrYUNvL294Q0lodGEvRGx6Qk1CZ2txaGtpRzl3MEJCd0V3SFFZSllJWklBV1VEQkFFcUJCQzhXVEJ0dGZPKytJVnpMUDZhYUVSZGdDRGRONVd4N3QyMHRlV2M0aUpYdW5HbzA4NSt3amFncnRBZjdBY0NkT0dpUXc9PV0nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzaCAiZXlhbWwgZW5jcnlwdCAtbyBzdHJpbmcgLXMgI3thcmdzLnN0cmluZ30gLS1wa2NzNy1wdWJsaWMta2V5PW1pc2MvcHVibGljX2tleS5wa2NzNy5wZW0iLCB2ZXJib3NlOiBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzc2goRU5WWydQVVBQRVRfTUFTVEVSJ10sICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICRjaWRycyB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>85</text>

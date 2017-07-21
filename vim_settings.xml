@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" timestamp="1500668930951">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" timestamp="1500671579402">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/s3_access.pp" timestamp="1500580901764">
         <mark key="[" line="14" column="46" />
@@ -80,7 +81,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500666318585">
+      <file name="/Dummy.txt" timestamp="1500670751079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/bastion.pp" timestamp="1500662651311" />
@@ -113,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="59" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="9" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
       <jump line="44" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
       <jump line="61" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
@@ -213,13 +212,15 @@
       <jump line="17" column="49" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" />
       <jump line="16" column="3" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" />
       <jump line="94" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" />
+      <jump line="14" column="21" filename="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" />
+      <jump line="12" column="8" filename="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>full_command</text>
+        <text>exec</text>
       </register>
       <register name="-" type="4">
-        <text>full_command</text>
+        <text>exec</text>
       </register>
       <register name="/" type="4">
         <text>hvm</text>
@@ -228,31 +229,31 @@
         <text>File[&quot;${homes_dir}/${partner}/.ssh&quot;],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwdXRzIGAje2xvY2FsX2NvbW1hbmR9YAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwdXRzICV4KCAje2xvY2FsX2NvbW1hbmR9ICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdXRzICdDdXJyZW50bHkgd2UgYXJlIG5vdCBnZXR0aW5nIGJhY2sgYWxsIHRoZSBvdXRwdXQgZnJvbSBQdXBwZXQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdXRzKCdDdXJyZW50bHkgJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzaCAiZXlhbWwgZW5jcnlwdCAtbyBzdHJpbmcgLXMgI3thcmdzLnN0cmluZ30gLS1wa2NzNy1wdWJsaWMta2V5PW1pc2MvcHVibGljX2tleS5wa2NzNy5wZW0iLCB2ZXJib3NlOiBmYWxzZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzc2goRU5WWydQVVBQRVRfTUFTVEVSJ10sICkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>

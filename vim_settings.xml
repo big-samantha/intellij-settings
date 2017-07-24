@@ -48,12 +48,11 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500921915899">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500924720631">
         <mark key="'" line="17" column="51" />
         <mark key="[" line="71" column="0" />
-        <mark key="]" line="76" column="6" />
-        <mark key="." line="75" column="56" />
-        <mark key="^" line="75" column="56" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
         <mark key="'" line="59" column="2" />
@@ -106,6 +105,11 @@
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1500924774904">
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/transaction-etl-service.yaml" timestamp="1500920081298">
         <mark key="'" line="10" column="12" />
@@ -227,7 +231,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgJGVjc19taWNyb3NlcnZpY2VfZGF0YVsnem9uZSddIHsKICAgICAgICBmYWlsKCJOb3JtYWwgbWljcm9zZXJ2aWNlcyBzaG91bGQgbm90IHNwZWNpZnkgYSB6b25lLiIpIHVubGVzcyAkZWNzX21pY3Jvc2VydmljZV9kYXRhWyd6b25lJ10gIT0gJ21pY3Jvc2VydmljZXMnKQogICAgICAgICRlY3NfY2x1c3Rlcl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50fS0ke3pvbmV9IgogICAgICB9IGVsc2UgewogICAgICAgICRlY3NfY2x1c3Rlcl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50fS1zZXJ2aWNlcyIKICAgICAgfQo=</text>
+        <text encoding="base64">ICAtICd0cmFuc2FjdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -239,31 +243,39 @@
         <text encoding="base64">ICAgICAgI2lmICRlY3NfbWljcm9zZXJ2aWNlX2RhdGFbJ3pvbmUnXSB7CiAgICAgICMgICRlY3Nfem9uZSA9ICRlY3NfbWljcm9zZXJ2aWNlWyd6b25lJ10KICAgICAgI30gZWxzZSB7CiAgICAgICMgICRlY3Nfem9uZSA9ICdtaWNyb3NlcnZpY2VzJwogICAgICAjfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZWNzX3pvbmUgPSAnbWljcm9zZXJ2aWNlcycK</text>
+        <text encoding="base64">ICAtICd0cmFuc2FjdGlvbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZWNzX3pvbmUgPSAkZWNzX21pY3Jvc2VydmljZVsnem9uZSddCg==</text>
+        <text encoding="base64">ICAgICAgaWYgJGVjc19taWNyb3NlcnZpY2VfZGF0YVsnem9uZSddIHsKICAgICAgICBmYWlsKCJOb3JtYWwgbWljcm9zZXJ2aWNlcyBzaG91bGQgbm90IHNwZWNpZnkgYSB6b25lLiIpIHVubGVzcyAkZWNzX21pY3Jvc2VydmljZV9kYXRhWyd6b25lJ10gIT0gJ21pY3Jvc2VydmljZXMnKQogICAgICAgICRlY3NfY2x1c3Rlcl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50fS0ke3pvbmV9IgogICAgICB9IGVsc2UgewogICAgICAgICRlY3NfY2x1c3Rlcl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50fS1zZXJ2aWNlcyIKICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgCg==</text>
+      <register name="5" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZWNzX3pvbmUgPSAnbWljcm9zZXJ2aWNlcycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAkZWNzX21pY3Jvc2VydmljZV9kYXRhWyd6b25lJ10gewogICAgICAgICdzdGFuZGFyZCc6IHsgJGVjc19jbHVzdGVyX25hbWUgPSAiJHtlY3NfZW52aXJvbm1lbnR9LXNlcnZpY2VzIiB9CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiB7ICIifQo=</text>
+        <text encoding="base64">ICAgICAgICAkZWNzX3pvbmUgPSAkZWNzX21pY3Jvc2VydmljZVsnem9uZSddCg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>

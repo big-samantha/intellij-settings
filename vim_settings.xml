@@ -283,7 +283,7 @@
         <text encoding="base64">ICAgICAgICAkZWNzX3pvbmUgPSAkZWNzX21pY3Jvc2VydmljZVsnem9uZSddCg==</text>
       </register>
       <register name=":" type="4">
-        <text>85</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -319,7 +319,6 @@
         <entry>ecs_name</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/${partner}/${user}/g</entry>
         <entry>%s/$partner/$user/g</entry>
         <entry>25</entry>
         <entry>5</entry>
@@ -339,6 +338,7 @@
         <entry>8</entry>
         <entry>82</entry>
         <entry>85</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />

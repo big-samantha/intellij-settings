@@ -31,7 +31,6 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/Working/src/monolith/config/app_config.yml" timestamp="1500583881722" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1500316093257">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />
@@ -42,6 +41,7 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" timestamp="1500063481439">
         <mark key="'" line="58" column="6" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/merchant-service.yaml" timestamp="1500911780360" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" timestamp="1500413330721">
         <mark key="'" line="35" column="35" />
       </file>
@@ -84,8 +84,6 @@
       <file name="/Dummy.txt" timestamp="1500680636946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/bastion.pp" timestamp="1500662651311" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/provisioner.pp" timestamp="1500661934436" />
       <file name="/fragment.rb" timestamp="1500584051959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,7 +94,6 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/Rakefile" timestamp="1500667508002" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
         <mark key="[" line="0" column="0" />
       </file>

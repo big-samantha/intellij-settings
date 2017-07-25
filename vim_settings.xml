@@ -54,12 +54,12 @@
         <mark key="." line="64" column="6" />
         <mark key="^" line="64" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501015774994">
-        <mark key="'" line="239" column="0" />
-        <mark key="[" line="82" column="38" />
-        <mark key="]" line="82" column="38" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501016546388">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="66" column="9" />
-        <mark key="." line="82" column="38" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
         <mark key="'" line="59" column="2" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="31" filename="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" />
       <jump line="130" column="0" filename="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" />
       <jump line="79" column="0" filename="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" />
       <jump line="82" column="102" filename="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" />
@@ -246,55 +245,56 @@
       <jump line="83" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
       <jump line="169" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
       <jump line="239" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="59" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbm90aWZ5IHsgImlzbm90bWljcm8tJHtuYW1lfSI6fQo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>ecs_task_def</text>
+        <text>not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAkZWNzX3Rhc2tfZGVmX25hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAiJHtlY3NfZW52aXJvbm1lbnRfbmFtZX0tJHtlY3Nfem9uZX0tJHtlY3NfbmFtZX0iCg==</text>
+        <text encoding="base64">ICAgICAgbm90aWZ5IHsgImlzbm90bWljcm8tJHtuYW1lfSI6fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbm90aWZ5IHsgImlzbWljcm8tJHtuYW1lfSI6fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAiJHtlY3NfZW52aXJvbm1lbnRfbmFtZX0tJHtlY3Nfem9uZX0tJHtlY3NfbmFtZX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAkZWNzX3Rhc2tfZGVmX25hbWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGVjc190YXNrX2RlZl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX3pvbmV9LSR7ZWNzX25hbWV9Igo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJGVjc190YXNrX2RlZl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX25hbWV9Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAkZWNzX3Rhc2tfZGVmX25hbWUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJGVjc190YXNrX2RlZl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX3pvbmV9LSR7ZWNzX25hbWV9Igo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJGVjc19zZXJ2aWNlX25hbWUgPSAiJHtlY3NfZW52aXJvbm1lbnRfbmFtZX0tJHtlY3Nfem9uZX0tJHtlY3NfbmFtZX0iCiAgICAgICRlY3NfdGFza19kZWZfbmFtZSA9ICIke2Vjc19lbnZpcm9ubWVudF9uYW1lfS0ke2Vjc196b25lfS0ke2Vjc19uYW1lfSIK</text>
+        <text encoding="base64">ICAgICAgJGVjc190YXNrX2RlZl9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX25hbWV9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>ecs_task_def</last-search>
+      <last-search>not</last-search>
       <last-offset />
-      <last-pattern>ecs_task_def</last-pattern>
+      <last-pattern>not</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -302,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loop</entry>
         <entry>context</entry>
         <entry>securitygroup</entry>
         <entry>default_instance_type</entry>
@@ -322,6 +321,7 @@
         <entry>zone</entry>
         <entry>rds_config</entry>
         <entry>ecs_task_def</entry>
+        <entry>not</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>

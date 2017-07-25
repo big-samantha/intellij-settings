@@ -47,19 +47,19 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1500931657217">
-        <mark key="'" line="17" column="51" />
-        <mark key="[" line="61" column="37" />
-        <mark key="]" line="61" column="41" />
-        <mark key="." line="61" column="41" />
-        <mark key="^" line="61" column="41" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1501010535944">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="73" column="51" />
+        <mark key="]" line="74" column="41" />
+        <mark key="." line="74" column="41" />
+        <mark key="^" line="74" column="41" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501007494562">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501010932053">
         <mark key="'" line="28" column="10" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="74" column="36" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="35" column="71" />
+        <mark key="]" line="35" column="71" />
+        <mark key="^" line="35" column="71" />
+        <mark key="." line="35" column="71" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/sftp.pp" timestamp="1499805730741">
         <mark key="'" line="59" column="2" />
@@ -94,7 +94,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501006548019">
+      <file name="/Dummy.txt" timestamp="1501011120545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1500584051959">
@@ -114,6 +114,12 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/puppet/agent.pp" timestamp="1501011375441">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="25" />
+        <mark key="^" line="56" column="25" />
+        <mark key="." line="56" column="25" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
         <mark key="[" line="4" column="0" />
       </file>
@@ -122,12 +128,12 @@
         <mark key="]" line="38" column="16" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/transaction-etl-service.yaml" timestamp="1500934133704">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/transaction-etl-service.yaml" timestamp="1501008598825">
         <mark key="'" line="23" column="6" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="17" />
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1500333281047">
         <mark key="'" line="20" column="3" />
@@ -140,15 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" />
-      <jump line="152" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
-      <jump line="12" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/ecs_instance.pp" />
-      <jump line="9" column="0" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
-      <jump line="29" column="1" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
-      <jump line="30" column="0" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
-      <jump line="15" column="18" filename="$USER_HOME$/Working/src/womply-puppet/Rakefile" />
-      <jump line="17" column="17" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="16" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="44" column="19" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
       <jump line="43" column="1" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/telephony-service.yaml" />
@@ -229,7 +226,6 @@
       <jump line="10" column="12" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/transaction-etl-service.yaml" />
       <jump line="58" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
       <jump line="141" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
       <jump line="17" column="51" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
       <jump line="23" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/transaction-etl-service.yaml" />
       <jump line="35" column="40" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
@@ -240,55 +236,65 @@
       <jump line="67" column="47" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
       <jump line="62" column="5" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
       <jump line="28" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="74" column="56" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="86" column="12" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="90" column="39" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="2" column="33" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="31" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="37" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="44" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="60" column="33" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="61" column="13" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
+      <jump line="0" column="27" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>ecs_name</text>
+        <text>rds_config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgJGVjc19zaG9ydG5hbWUgewogICAgICAgICRlbGJfbmFtZSA9ICJlY3MtJHtlY3NfZW52aXJvbm1lbnRfbmFtZX0tJHtlY3Nfc2hvcnRuYW1lfSIKICAgICAgfSBlbHNlIHsKICAgICAgICAkZWxiX25hbWUgPSAiZWNzLSR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX25hbWV9IgogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgJGVsYl9zdWJuZXRzID0gJGVsYl9henMubWFwIHwkYXp8IHsKICAgICAgICAiZWNzLSR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7YXp9IgogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGVjc19jb250YWluZXJfbmFtZSA9ICRlY3NfbmFtZQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgaWYgJGVjc19zaG9ydG5hbWUgewogICAgJGVsYl9uYW1lID0gImVjcy0ke2Vjc19lbnZpcm9ubWVudF9uYW1lfS0ke2Vjc19zaG9ydG5hbWV9IgogIH0gZWxzZSB7CiAgICAkZWxiX25hbWUgPSAiZWNzLSR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX25hbWV9IgogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgJGVjc19jb250YWluZXJfbmFtZSA9ICRlY3NfbmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAkZWxiX3N1Ym5ldHMgPSAkZWxiX2F6cy5tYXAgfCRhenwgewogICAgImVjcy0ke2Vjc19lbnZpcm9ubWVudF9uYW1lfS0ke2F6fSIKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJGVsYl9zZWN1cml0eV9ncm91cHMgPSBbICJlY3MtIl0K</text>
+        <text encoding="base64">ICAjICRuYW1lIG1pZ2h0IGNvbnRhaW4gdGhlIGVudmlyb25tZW50IHRvIG1ha2UgaXQgdW5pcXVlCiAgIyAkZWNzX25hbWUgaXMgdGhlIHJlYWwgbmFtZSBvZiB0aGUgc2VydmljZQoKICBpZiAkb3ZlcnJpZGVfZWNzX3NlcnZpY2VfbmFtZSB7CiAgICAkZWNzX3NlcnZpY2VfbmFtZSA9ICRvdmVycmlkZV9lY3Nfc2VydmljZV9uYW1lCiAgfSBlbHNlIHsKICAgICRlY3Nfc2VydmljZV9uYW1lID0gIiR7ZWNzX2Vudmlyb25tZW50X25hbWV9LSR7ZWNzX25hbWV9IgogIH0KCiAgaWYgJG92ZXJyaWRlX2Vjc190YXNrX2RlZl9uYW1lIHsKICAgICRlY3NfdGFza19kZWZfbmFtZSA9ICRvdmVycmlkZV9lY3NfdGFza19kZWZfbmFtZQogIH0gZWxzZSB7CiAgICAkZWNzX3Rhc2tfZGVmX25hbWUgPSAiJHtlY3NfZW52aXJvbm1lbnRfbmFtZX0tJHtlY3NfbmFtZX0iCiAgfQoKICBpZiAkb3ZlcnJpZGVfZWNzX2NvbnRhaW5lcl9uYW1lIHsKICAgICRlY3NfY29udGFpbmVyX25hbWUgPSAkb3ZlcnJpZGVfZWNzX2NvbnRhaW5lcl9uYW1lCiAgfSBlbHNlIHsKICAgICRlY3NfY29udGFpbmVyX25hbWUgPSAkZWNzX25hbWUKICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBFbnVtWydtaWNyb3NlcnZpY2VzJywgJ2NkZSddICR6b25lICAgICAgICAgICAgICAgICAgPSAnbWljcm9zZXJ2aWNlcycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGFyZ2V0OiAnVENQOjgwODkvaGVhbHRoX2NoZWNrJwo=</text>
+        <text encoding="base64">ICAgICAgJHNlY3VyaXR5X2dyb3VwX25hbWUgPSAiZWNzLSR7ZWNzX3pvbmV9LSR7ZWNzX3NlcnZpY2VfbmFtZX0tZWxiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>20</text>
+        <text>37</text>
       </register>
     </registers>
     <search>
-      <last-search>ecs_name</last-search>
+      <last-search>rds_config</last-search>
       <last-offset />
-      <last-pattern>ecs_name</last-pattern>
+      <last-pattern>rds_config</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -296,8 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client-0021</entry>
-        <entry>comments</entry>
         <entry>ssh_auth</entry>
         <entry>loop</entry>
         <entry>context</entry>
@@ -316,9 +320,10 @@
         <entry>name</entry>
         <entry>$name</entry>
         <entry>ecs_name</entry>
+        <entry>zone</entry>
+        <entry>rds_config</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/$partner/$user/g</entry>
         <entry>25</entry>
         <entry>5</entry>
         <entry>239</entry>
@@ -338,6 +343,7 @@
         <entry>82</entry>
         <entry>85</entry>
         <entry>20</entry>
+        <entry>37</entry>
       </history-cmd>
       <history-expr />
       <history-input />

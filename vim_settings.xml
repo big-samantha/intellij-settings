@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1500413316537">
         <mark key="[" line="31" column="23" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1501099047668">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="15" column="575" />
+        <mark key="." line="15" column="575" />
+        <mark key="^" line="15" column="575" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" timestamp="1500401203346">
         <mark key="'" line="63" column="389" />
         <mark key="[" line="181" column="22" />
@@ -87,7 +93,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501098342727">
+      <file name="/Dummy.txt" timestamp="1501099062802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
@@ -96,7 +102,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501097166467" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501099085644" />
       <file name="/fragment.rb" timestamp="1500584051959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,11 +269,11 @@
       <jump line="23" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjogWwogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiBbCiAgICAgICAgICAgICAgICAiPCU9ICRlY3NfY2x1c3RlcnNfYXJuICU+IgogICAgICAgICAgICBdCiAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEwDQYJKoZIhvcNAQEBBQAEggEAFpnhEx+5CX+35R/gHtIuReMl0Ln5aaOnUi1O2NAntId7LAVTLrvV5wSEcYZBJGXg/shyKWYhp9nTfsWj1jRNLkrGN/98OYJhvt/KSVVL5x3nQw///Ev//KE+vxSD1/jnhIXm16p/Hm+Sl6DlsfBWNLv4rQIednBUjArlQt00/XexGXODkrOasPh46KSWZEiukp7CrqiwfB9XUY7R8VHyB9B75+Ci6gA8Wogh1YsDGdqB6Mv4lBkiTyDm+PxKp0WCzIX2nIrJxuS/johXvAmgObEYaKZ0aqJvsStY09dOK40eapmfOD6EUotjnL39Ow/zf1Zjh8/dRMktHcOZXBb+PzBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBB1Hj4fEM9JKWX+b91dRT59gDCL/57XJ1I8Gphxq9oX3kzjX9urj6K4kCWfej9WpbftkM0E/I03kAv1ePDZaP7VuOg=]</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>ENC[PKCS7,MIIBmQYJKoZIhvcNAQcDoIIBijCCAYYCAQAxggEhMIIBHQIBADAFMAACAQEwDQYJKoZIhvcNAQEBBQAEggEAFpnhEx+5CX+35R/gHtIuReMl0Ln5aaOnUi1O2NAntId7LAVTLrvV5wSEcYZBJGXg/shyKWYhp9nTfsWj1jRNLkrGN/98OYJhvt/KSVVL5x3nQw///Ev//KE+vxSD1/jnhIXm16p/Hm+Sl6DlsfBWNLv4rQIednBUjArlQt00/XexGXODkrOasPh46KSWZEiukp7CrqiwfB9XUY7R8VHyB9B75+Ci6gA8Wogh1YsDGdqB6Mv4lBkiTyDm+PxKp0WCzIX2nIrJxuS/johXvAmgObEYaKZ0aqJvsStY09dOK40eapmfOD6EUotjnL39Ow/zf1Zjh8/dRMktHcOZXBb+PzBcBgkqhkiG9w0BBwEwHQYJYIZIAWUDBAEqBBB1Hj4fEM9JKWX+b91dRT59gDCL/57XJ1I8Gphxq9oX3kzjX9urj6K4kCWfej9WpbftkM0E/I03kAv1ePDZaP7VuOg=]</text>
       </register>
       <register name="/" type="4">
         <text>microservices</text>

@@ -16,12 +16,9 @@
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" timestamp="1500413316537">
-        <mark key="[" line="31" column="23" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1501186723780">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1501198961584">
         <mark key="'" line="23" column="6" />
-        <mark key="[" line="27" column="22" />
+        <mark key="[" line="13" column="24" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="93" />
@@ -46,9 +43,6 @@
         <mark key="^" line="337" column="7" />
         <mark key="." line="337" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1500055889058">
-        <mark key="[" line="10" column="37" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501022942585">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -68,9 +62,6 @@
         <mark key="^" line="66" column="9" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1499451202344">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1501123970802">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="83" column="33" />
@@ -85,9 +76,6 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/Gemfile" timestamp="1498767487679">
-        <mark key="[" line="10" column="10" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1501098317107">
         <mark key="'" line="91" column="4" />
         <mark key="[" line="124" column="23" />
@@ -95,7 +83,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501191684705">
+      <file name="/Dummy.txt" timestamp="1501198964870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
@@ -109,9 +97,6 @@
         <mark key="]" line="42" column="13" />
         <mark key="^" line="40" column="35" />
         <mark key="." line="42" column="13" />
-      </file>
-      <file name="/fragment.rb" timestamp="1500584051959">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501192965338">
         <mark key="'" line="115" column="22" />
@@ -127,17 +112,11 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/newthing.yaml" timestamp="1498768723878">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/puppet/agent.pp" timestamp="1501011375441">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="25" />
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/elb_tls.yaml" timestamp="1498768593386">
-        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/s3.pp" timestamp="1501097033546" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1500924774904">
@@ -173,9 +152,6 @@
         <mark key="^" line="125" column="2" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/rds.pp" timestamp="1501123395356" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/partner-service.yaml" timestamp="1500918489387">
-        <mark key="[" line="50" column="38" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />

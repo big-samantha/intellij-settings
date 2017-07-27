@@ -95,7 +95,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501177078544">
+      <file name="/Dummy.txt" timestamp="1501189077972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
@@ -104,18 +104,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501187002775">
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="35" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501188455790">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
         <mark key="^" line="40" column="35" />
-        <mark key="." line="40" column="35" />
+        <mark key="." line="42" column="13" />
       </file>
       <file name="/fragment.rb" timestamp="1500584051959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-data-service.yaml" timestamp="1500933106648">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="37" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501188769011">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="121" column="2" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
         <mark key="'" line="332" column="67" />
@@ -277,17 +277,17 @@
       <jump line="23" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBpYW1fcG9saWN5IHsgJ1dvbXBseVNwYXJrQ3J5cHRvJzoKICAgIGVuc3VyZSAgID0+IHByZXNlbnQsCiAgICBkb2N1bWVudCA9PiBlcHAoJ3Byb2ZpbGUvYXdzL2lhbS9wb2xpY3lfd29tcGx5X3NwYXJrX2NyeXB0by5lcHAnLCB7CiAgICAgICdidWNrZXRfbmFtZScgPT4gJ3dvbXBseS1wZ3AnLAogICAgICAna21zX2tleV9hcm4nID0+ICdhcm46YXdzOmttczp1cy13ZXN0LTI6OTg1NDMzNTU2NDExOmtleS9kZDQ2ZjhmOS1hMzRlLTQ3OTQtYmQxMS02NGZiYzc4MGQxYzcnCiAgICB9KSwKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>AIDAJVDVYQP7TYFBO7MAE</text>
       </register>
       <register name="/" type="4">
         <text>SFTP</text>
       </register>
-      <register name="0" type="4">
-        <text>'prod/txn-etl-service/grs_mailbox_id_rsa.kms'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpYW1fcG9saWN5IHsgJ1dvbXBseVNwYXJrQ3J5cHRvJzoKICAgIGVuc3VyZSAgID0+IHByZXNlbnQsCiAgICBkb2N1bWVudCA9PiBlcHAoJ3Byb2ZpbGUvYXdzL2lhbS9wb2xpY3lfd29tcGx5X3NwYXJrX2NyeXB0by5lcHAnLCB7CiAgICAgICdidWNrZXRfbmFtZScgPT4gJ3dvbXBseS1wZ3AnLAogICAgICAna21zX2tleV9hcm4nID0+ICdhcm46YXdzOmttczp1cy13ZXN0LTI6OTg1NDMzNTU2NDExOmtleS9kZDQ2ZjhmOS1hMzRlLTQ3OTQtYmQxMS02NGZiYzc4MGQxYzcnCiAgICB9KSwKICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgQVdTX1dPTVBMWV9CVUNLRVRTX0FSQ0hJVkU6IHdvbXBseS1wY2ktYXJjaGl2ZXMK</text>

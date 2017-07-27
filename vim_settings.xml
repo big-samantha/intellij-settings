@@ -95,7 +95,7 @@
         <mark key="." line="125" column="36" />
         <mark key="^" line="125" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501189077972">
+      <file name="/Dummy.txt" timestamp="1501191684705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
@@ -104,7 +104,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501188455790">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501191196798">
         <mark key="[" line="42" column="13" />
         <mark key="]" line="42" column="13" />
         <mark key="^" line="40" column="35" />
@@ -113,9 +113,12 @@
       <file name="/fragment.rb" timestamp="1500584051959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501188769011">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="121" column="2" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501191683647">
+        <mark key="'" line="115" column="22" />
+        <mark key="[" line="355" column="44" />
+        <mark key="]" line="376" column="35" />
+        <mark key="^" line="376" column="35" />
+        <mark key="." line="376" column="35" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
         <mark key="'" line="332" column="67" />
@@ -175,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="42" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
-      <jump line="82" column="26" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
       <jump line="19" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" />
       <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
       <jump line="18" column="330" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
@@ -275,6 +276,8 @@
       <jump line="27" column="10" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
       <jump line="24" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
       <jump line="23" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="375" column="35" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" />
+      <jump line="115" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -284,7 +287,7 @@
         <text>AIDAJVDVYQP7TYFBO7MAE</text>
       </register>
       <register name="/" type="4">
-        <text>SFTP</text>
+        <text>Spark</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpYW1fcG9saWN5IHsgJ1dvbXBseVNwYXJrQ3J5cHRvJzoKICAgIGVuc3VyZSAgID0+IHByZXNlbnQsCiAgICBkb2N1bWVudCA9PiBlcHAoJ3Byb2ZpbGUvYXdzL2lhbS9wb2xpY3lfd29tcGx5X3NwYXJrX2NyeXB0by5lcHAnLCB7CiAgICAgICdidWNrZXRfbmFtZScgPT4gJ3dvbXBseS1wZ3AnLAogICAgICAna21zX2tleV9hcm4nID0+ICdhcm46YXdzOmttczp1cy13ZXN0LTI6OTg1NDMzNTU2NDExOmtleS9kZDQ2ZjhmOS1hMzRlLTQ3OTQtYmQxMS02NGZiYzc4MGQxYzcnCiAgICB9KSwKICB9Cg==</text>
@@ -321,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SFTP</last-search>
+      <last-search>Spark</last-search>
       <last-offset />
-      <last-pattern>SFTP</last-pattern>
+      <last-pattern>Spark</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mysql</entry>
         <entry>s3</entry>
         <entry>hvm</entry>
         <entry>RS</entry>
@@ -351,6 +353,7 @@
         <entry>microservices</entry>
         <entry>GRS</entry>
         <entry>SFTP</entry>
+        <entry>Spark</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>

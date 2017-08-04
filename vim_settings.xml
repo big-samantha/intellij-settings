@@ -83,7 +83,7 @@
         <mark key="." line="126" column="36" />
         <mark key="^" line="126" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501880264036">
+      <file name="/Dummy.txt" timestamp="1501889203266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
       </file>
@@ -144,6 +144,12 @@
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/cde_proxy.pp" timestamp="1501888947942">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="18" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1501880836427" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501022990256">
@@ -263,8 +269,8 @@
       <jump line="42" column="20" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pentaho</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG93bmVyICA9PiAnbmdpbngnLAogICAgZ3JvdXAgID0+ICduZ2lueCcsCiAgICBtb2RlICAgPT4gJzA3NTUnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>pentaho</text>
@@ -276,31 +282,31 @@
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIHByb3RvY29sICAgICAgID0+ICd0Y3AnLAogICAgICAgICAgICAgIGZyb21fcG9ydCAgICAgID0+ICc4MCcsCiAgICAgICAgICAgICAgdG9fcG9ydCAgICAgICAgPT4gJzgwJywKICAgICAgICAgICAgICBzZWN1cml0eV9ncm91cCA9PiAncGVudGFobycsCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyICA9PiAnbmdpbngnLAogICAgZ3JvdXAgID0+ICduZ2lueCcsCiAgICBtb2RlICAgPT4gJzA3NTUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdtaWNyb3NlcnZpY2VzJzogeyAkZWxiX3NlY2dfaW5ncmVzcyA9IFtdIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICdtaWNyb3NlcnZpY2VzJzogeyAkZWxiX3NlY2dfaW5ncmVzcyA9IFtdIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJGVsYl9zZWNnX2luZ3Jlc3MK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgJGVsYl9zZWNnX2luZ3Jlc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amtqawo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>142</text>

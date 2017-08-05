@@ -36,7 +36,7 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1501725144182">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1501896670256">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />
         <mark key="]" line="337" column="0" />
@@ -44,6 +44,12 @@
         <mark key="." line="337" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1501880846305" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501897172708">
+        <mark key="[" line="63" column="18" />
+        <mark key="]" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="^" line="60" column="19" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1501891810455">
         <mark key="'" line="0" column="27" />
         <mark key="[" line="74" column="32" />
@@ -85,15 +91,9 @@
         <mark key="." line="126" column="36" />
         <mark key="^" line="126" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501894771715">
+      <file name="/Dummy.txt" timestamp="1501896927723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501191196798">
         <mark key="[" line="42" column="13" />
@@ -149,7 +149,7 @@
         <mark key="." line="33" column="18" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1501880836427" />
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501022990256">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501896950859">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="27" />
@@ -266,8 +266,8 @@
       <jump line="224" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtIHByb3RvY29sOiAndGNwJwogICAgICAgICAgc2VjdXJpdHlfZ3JvdXA6ICdjZGVfcHJveHknCiAgICAgICAgICBwb3J0OiAnODAnCg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -276,7 +276,7 @@
         <text>elb_data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIHByb3RvY29sICAgICAgID0+ICd0Y3AnLAogICAgICAgICAgICAgIGZyb21fcG9ydCAgICAgID0+ICc4MCcsCiAgICAgICAgICAgICAgdG9fcG9ydCAgICAgICAgPT4gJzgwJywKICAgICAgICAgICAgICBzZWN1cml0eV9ncm91cCA9PiAncGVudGFobycsCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHByb3RvY29sOiAndGNwJwogICAgICAgICAgc2VjdXJpdHlfZ3JvdXA6ICdjZGVfcHJveHknCiAgICAgICAgICBwb3J0OiAnODAnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG93bmVyICA9PiAnbmdpbngnLAogICAgZ3JvdXAgID0+ICduZ2lueCcsCiAgICBtb2RlICAgPT4gJzA3NTUnLAo=</text>

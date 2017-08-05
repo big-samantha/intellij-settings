@@ -68,6 +68,12 @@
         <mark key="." line="84" column="5" />
         <mark key="^" line="84" column="5" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/swiper-service.yaml" timestamp="1501890637694">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1499970279099">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="6" column="17" />
@@ -269,11 +275,11 @@
       <jump line="42" column="20" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG93bmVyICA9PiAnbmdpbngnLAogICAgZ3JvdXAgID0+ICduZ2lueCcsCiAgICBtb2RlICAgPT4gJzA3NTUnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>pentaho</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>dns</text>

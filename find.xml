@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,23 +18,23 @@
       <mask>*.mxml</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.p</mask>
-      <mask>*.pp</mask>
       <mask>p</mask>
       <mask>das</mask>
       <mask>dasd</mask>
       <mask>dasda</mask>
       <mask>8</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.yaml</mask>
       <mask>*.yam</mask>
       <mask>*.ya</mask>
-      <mask>*.y</mask>
       <mask>*.ym,p;</mask>
       <mask>*.ym,p</mask>
       <mask>*.ym,</mask>
       <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
     </recentFileMasks>
   </component>
 </application>

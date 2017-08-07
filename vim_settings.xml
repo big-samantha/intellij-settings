@@ -10,12 +10,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1501799352775">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1502143441548">
         <mark key="'" line="43" column="6" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="18" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" timestamp="1500401203346">
         <mark key="'" line="63" column="389" />
@@ -43,7 +43,6 @@
         <mark key="^" line="337" column="7" />
         <mark key="." line="337" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/database/permission.pp" timestamp="1501880846305" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501897172708">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="63" column="19" />
@@ -91,7 +90,7 @@
         <mark key="." line="126" column="36" />
         <mark key="^" line="126" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501896927723">
+      <file name="/Dummy.txt" timestamp="1502143443167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
       </file>
@@ -127,7 +126,6 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/s3.pp" timestamp="1501803556428" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/ecs/deploy_user_policy.epp" timestamp="1501093336744">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="5" column="5" />
@@ -148,7 +146,6 @@
         <mark key="^" line="37" column="23" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" timestamp="1501880836427" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501896950859">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -266,11 +263,11 @@
       <jump line="224" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIHByb3RvY29sOiAndGNwJwogICAgICAgICAgc2VjdXJpdHlfZ3JvdXA6ICdjZGVfcHJveHknCiAgICAgICAgICBwb3J0OiAnODAnCg==</text>
+      <register name="&quot;" type="4">
+        <text>TCP</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>TCP</text>
       </register>
       <register name="/" type="4">
         <text>elb_data</text>

@@ -36,6 +36,7 @@
         <mark key="^" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/scraper-service.yaml" timestamp="1502214411453" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1501896670256">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="337" column="0" />

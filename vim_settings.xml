@@ -44,12 +44,6 @@
         <mark key="^" line="337" column="7" />
         <mark key="." line="337" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/files/aws/s3/womply_partner_hash.json" timestamp="1502484419467">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501897172708">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="63" column="19" />

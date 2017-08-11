@@ -128,6 +128,9 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/s3.pp" timestamp="1502480674547">
+        <mark key="[" line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_web.pp" timestamp="1502212139074" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/ecs/deploy_user_policy.epp" timestamp="1501093336744">
         <mark key="'" line="50" column="0" />

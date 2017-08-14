@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>das</mask>
       <mask>dasd</mask>
@@ -22,7 +20,6 @@
       <mask>pp</mask>
       <mask>*.y</mask>
       <mask>*.yaml</mask>
-      <mask>*.pp</mask>
       <mask>*.p</mask>
       <mask>./</mask>
       <mask>.</mask>
@@ -31,9 +28,13 @@
       <mask>ep</mask>
       <mask>e</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ep</mask>
       <mask>*.epp</mask>
+      <mask>*.ep</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.p[p</mask>
+      <mask>*.p[</mask>
+      <mask>*.pp</mask>
     </recentFileMasks>
   </component>
 </application>

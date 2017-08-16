@@ -43,7 +43,6 @@
         <mark key="^" line="329" column="34" />
         <mark key="." line="329" column="34" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/puppet/aws_userdata.sh.erb" timestamp="1502822904248" />
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501897172708">
         <mark key="[" line="63" column="18" />
         <mark key="]" line="63" column="19" />
@@ -83,20 +82,14 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1502484453858">
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1502906574090">
         <mark key="s" line="78" column="23" />
         <mark key="'" line="92" column="4" />
-        <mark key="[" line="127" column="18" />
-        <mark key="]" line="131" column="14" />
-        <mark key="." line="131" column="14" />
-        <mark key="^" line="131" column="14" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/subnets.yaml" timestamp="1502742561475" />
-      <file name="/Dummy.txt" timestamp="1502822757227">
+      <file name="/Dummy.txt" timestamp="1502906489814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/bastion.pp" timestamp="1502742653327" />
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501191196798">
         <mark key="[" line="42" column="13" />
         <mark key="]" line="42" column="13" />
@@ -174,7 +167,6 @@
         <mark key="." line="125" column="2" />
         <mark key="^" line="125" column="2" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/rds.pp" timestamp="1502816330146" />
     </filemarks>
     <jumps>
       <jump line="68" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />

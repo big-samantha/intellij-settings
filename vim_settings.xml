@@ -56,17 +56,17 @@
         <mark key="." line="64" column="6" />
         <mark key="^" line="64" column="6" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501892532816">
-        <mark key="'" line="224" column="19" />
-        <mark key="]" line="165" column="26" />
-        <mark key="^" line="165" column="26" />
-        <mark key="." line="165" column="26" />
+      <file name="$USER_HOME$/Working/src/stdlib_aws/examples/get_subnets_from_tag_and_value.pp" timestamp="1502924629372">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
       </file>
-      <file name="$USER_HOME$/Working/src/stdlib_aws/spec/functions/subnets_from_tag_spec.rb" timestamp="1502922605551">
+      <file name="$USER_HOME$/Working/src/stdlib_aws/spec/functions/subnets_from_tag_spec.rb" timestamp="1502923337034">
         <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="3" column="19" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1501123970802">
         <mark key="'" line="94" column="0" />
@@ -88,12 +88,12 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" timestamp="1502921770169">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+      <file name="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" timestamp="1502925450850">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/Working/src/stdlib_aws/.fixtures.yml" timestamp="1502922274591">
         <mark key="[" line="2" column="31" />
@@ -129,10 +129,10 @@
         <mark key="^" line="8" column="63" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/Working/src/stdlib_aws/examples/get_subnets_from_tag.pp" timestamp="1502921693790">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="." line="0" column="51" />
+      <file name="$USER_HOME$/Working/src/stdlib_aws/examples/get_subnets_from_tag.pp" timestamp="1502923502631">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="55" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
@@ -206,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="45" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
-      <jump line="33" column="35" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
       <jump line="13" column="6" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
       <jump line="88" column="35" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
       <jump line="64" column="24" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
@@ -305,47 +303,49 @@
       <jump line="19" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
       <jump line="36" column="4" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
       <jump line="37" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQoe3JlZ2lvbjogcmVnaW9ufSkK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GRS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIHByb3RvY29sOiAndGNwJwogICAgICAgICAgc2VjdXJpdHlfZ3JvdXA6ICdjZGVfcHJveHknCiAgICAgICAgICBwb3J0OiAnODAnCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbmFsX3BhcmFtICdTdHJpbmcnLCA6cmVnaW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3Q6ICAgIiN7c291cmNlX2Rpcn0vc3BlYy9maXh0dXJlcy90ZXN0Igo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQoe3JlZ2lvbjogcmVnaW9ufSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQoe3JlZ2lvbjogcmVnaW9ufSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtICdTdHJpbmcnLCA6dmFsdWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsaWVudC5kZXNjcmliZV9zdWIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgZm9vKGJhcikKICAgIAogIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICBkZWYgZm9vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsYWggPSB7Cg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvbyA9ICdiYXInCg==</text>
+        <text encoding="base64">ICBkZWYgZWMyX2NsaWVudChyZWdpb249bmlsKQogICAgY2FzZSByZWdpb24KICAgIHdoZW4gbmlsCiAgICAgIEF3czo6RUMyOjpDbGllbnQubmV3CiAgICB3aGVuIFN0cmluZwogICAgICBBd3M6OkVDMjo6Q2xpZW50Lm5ldyhyZWdpb246IHJlZ2lvbikKICAgIGVuZAogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>4</text>

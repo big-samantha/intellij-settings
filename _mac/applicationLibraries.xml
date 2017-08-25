@@ -1452,6 +1452,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.6.7/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-puppet (v2.6.8, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.6.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-2.6.8/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-puppet-facts (v1.8.0, rbenv: 2.1.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rspec-puppet-facts-1.8.0/lib" />

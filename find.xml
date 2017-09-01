@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
       <mask>dasd</mask>
       <mask>dasda</mask>
@@ -22,20 +23,20 @@
       <mask>.epp</mask>
       <mask>ep</mask>
       <mask>e</mask>
-      <mask>*</mask>
       <mask>*.epp</mask>
       <mask>*.ep</mask>
       <mask>*.e</mask>
       <mask>*.p[p</mask>
       <mask>*.p[</mask>
-      <mask>*.pp</mask>
-      <mask>*.p</mask>
       <mask>*.yaml</mask>
       <mask>*.ya</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pp</mask>
     </recentFileMasks>
   </component>
 </application>

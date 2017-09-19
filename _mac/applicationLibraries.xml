@@ -928,6 +928,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/highline-1.6.21/site" />
       </SOURCES>
     </library>
+    <library name="homesick (v1.1.5, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/homesick-1.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/homesick-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/homesick-1.1.5/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/homesick-1.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/http-cookie-1.0.2/lib" />
@@ -2978,6 +2988,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/thor-0.20.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/thor-0.20.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.20.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thor-0.20.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/thor-0.20.0/lib" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, rbenv: 2.1.5) [gem]">

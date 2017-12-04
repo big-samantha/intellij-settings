@@ -2,13 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
       <mask>dasda</mask>
       <mask>8</mask>
-      <mask>*.yam</mask>
       <mask>*.ym,p;</mask>
       <mask>*.ym,p</mask>
       <mask>*.ym,</mask>
@@ -29,11 +27,12 @@
       <mask>*.er</mask>
       <mask>*.erb</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
       <mask>*.yal</mask>
       <mask>*.ya</mask>
+      <mask>*.y</mask>
+      <mask>*.yam</mask>
       <mask>*.yaml</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pp</mask>
     </recentFileMasks>

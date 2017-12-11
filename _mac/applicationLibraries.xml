@@ -202,6 +202,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.4, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/bigdecimal" />
+      </SOURCES>
+    </library>
+    <library name="bigdecimal (v1.3.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bootstrap-datepicker-rails (v1.4.0, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/bootstrap-datepicker-rails-1.4.0/lib" />
@@ -1066,6 +1082,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/jquery-rails-4.0.4/vendor" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.8.3" />
@@ -1086,6 +1110,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/json-1.8.3/tests" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/json-1.8.3/tools" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.0.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json/add" />
       </SOURCES>
     </library>
     <library name="json (v2.1.0, rbenv: 2.1.10) [gem]">
@@ -1448,6 +1480,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitar-0.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v4.7.5, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/minitest" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/lib" />
@@ -1652,6 +1692,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/oj-2.18.1/lib" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.0.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/orm_adapter-0.5.0/lib" />
@@ -1788,6 +1836,34 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-rails-0.3.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.5, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/psych/visitors" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/visitors" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.5, rbenv: 2.1.10) [gem]">
@@ -2158,6 +2234,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.1.0, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rake/loaders" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rake-10.4.2/bin" />
@@ -2194,6 +2284,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rdoc (v4.1.0, rbenv: 2.1.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/markup" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/2.1.0/rdoc/markup" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.0, rbenv: 2.1.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rdoc-4.2.0/bin" />
@@ -2202,6 +2314,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rdoc-4.2.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/gems/2.1.0/gems/rdoc-4.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v5.0.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/ri" />
       </SOURCES>
     </library>
     <library name="ref (v1.0.5, rbenv: 2.1.5) [gem]">

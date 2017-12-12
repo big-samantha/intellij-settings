@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\site\profile\manifests\aws\provisioner_automation.pp [womply-puppet]'" />
+    <option name="defaultScopeName" value="File '...\site\profile\manifests\aws\provisioner_automation.pp [womply-puppet]'" />
+    <option name="SEARCH_SCOPE" value="File '...\site\profile\manifests\aws\provisioner_automation.pp [womply-puppet]'" />
     <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
       <mask>dasda</mask>

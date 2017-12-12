@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping ext="epp" type="EPP file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="provisioner-automation" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

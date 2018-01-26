@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pp" />
     <recentFileMasks>
       <mask>8</mask>
       <mask>*.ym,p;</mask>
@@ -29,11 +30,11 @@
       <mask>*.ya</mask>
       <mask>*.yam</mask>
       <mask>*.pp]</mask>
-      <mask>*.pp</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.yaml</mask>
+      <mask>*.pp</mask>
     </recentFileMasks>
   </component>
 </application>

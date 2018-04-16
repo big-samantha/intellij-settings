@@ -1,41 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Dependencies" />
+    <option name="defaultScopeName" value="Dependencies" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.ym,p</mask>
-      <mask>*.ym,</mask>
-      <mask>*.ym</mask>
-      <mask>p</mask>
-      <mask>pp</mask>
-      <mask>./</mask>
-      <mask>.</mask>
-      <mask>.ep</mask>
-      <mask>.epp</mask>
-      <mask>ep</mask>
-      <mask>e</mask>
-      <mask>*.epp</mask>
-      <mask>*.ep</mask>
-      <mask>*.e</mask>
-      <mask>*.p[p</mask>
-      <mask>*.p[</mask>
-      <mask>*.er</mask>
-      <mask>*.erb</mask>
-      <mask>*</mask>
-      <mask>*.yal</mask>
-      <mask>*.ya</mask>
-      <mask>*.yam</mask>
-      <mask>*.pp]</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.pp</mask>
-      <mask>*.yaml</mask>
-      <mask>json</mask>
-      <mask>.pp</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Dependencies" />
   </component>
 </application>

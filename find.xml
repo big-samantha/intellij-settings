@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Dependencies" />
     <option name="defaultScopeName" value="Dependencies" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Dependencies" />
-    <option name="FILE_MASK" value="*.pp" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

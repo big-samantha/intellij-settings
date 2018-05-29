@@ -10,8 +10,12 @@
           <option name="url" value="git@github.com:OtoAnalytics/womply-puppet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OtoAnalytics/aws_certificate_audit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Working/src" />
+    <option name="cloneParentDir" value="C:\Users\Zee Alexander\Working\src" />
   </component>
 </application>

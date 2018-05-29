@@ -1136,6 +1136,10 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.3.4, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.16.2, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/bundler-1.16.2/lib" />
@@ -1151,6 +1155,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/rubygems-update-2.7.7/bundler/lib" />
       </SOURCES>
+    </library>
+    <library name="bundler (v1.16.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bundler-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/bundler-1.16.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="cmath (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="coderay (v1.1.2, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1184,6 +1200,18 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/cri-2.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="csv (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="date (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="dbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="debase (v0.2.2, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/debase-0.2.2/lib" />
@@ -1208,6 +1236,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/did_you_mean-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="did_you_mean (v1.2.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.3, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/diff-lcs-1.3/lib" />
@@ -1215,6 +1251,10 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/diff-lcs-1.3/lib" />
       </SOURCES>
+    </library>
+    <library name="etc (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="facter (v2.5.1, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1247,6 +1287,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/fast_gettext-1.1.0/lib" />
       </SOURCES>
+    </library>
+    <library name="fcntl (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fiddle (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="fileutils (v1.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="gdbm (v2.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="gettext (v3.2.3, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1296,6 +1352,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/highline-1.6.21/lib" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.6, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="ipaddr (v1.2.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="jmespath (v1.4.0, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/jmespath-1.4.0/lib" />
@@ -1303,6 +1367,10 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/jmespath-1.4.0/lib" />
       </SOURCES>
+    </library>
+    <library name="json (v2.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="json_pure (v1.8.6, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1376,6 +1444,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mocha (v1.2.1, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/mocha-1.2.1/lib" />
@@ -1408,6 +1484,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/net-telnet-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="net-telnet (v0.1.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="oj (v2.18.1, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/oj-2.18.1/lib" />
@@ -1416,12 +1500,24 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/oj-2.18.1/lib" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="power_assert (v1.1.1, Remote: ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/power_assert-1.1.1/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/power_assert-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="power_assert (v1.1.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerbar (v1.0.18, Remote: ruby-2.3.1-p112) [gem]">
@@ -1439,6 +1535,10 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/pry-0.11.3/lib" />
       </SOURCES>
+    </library>
+    <library name="psych (v3.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="puppet (v4.9.4, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1520,6 +1620,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/rake-12.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.3.1, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/rake-12.3.1/lib" />
@@ -1527,6 +1635,10 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/rake-12.3.1/lib" />
       </SOURCES>
+    </library>
+    <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rspec (v3.5.0, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -1648,6 +1760,14 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/rubygems-update-2.7.7/hide_lib_for_update" />
       </SOURCES>
     </library>
+    <library name="scanf (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="sdbm (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="semantic_puppet (v0.1.4, Remote: ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/semantic_puppet-0.1.4/lib" />
@@ -1656,12 +1776,28 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/semantic_puppet-0.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="stringio (v0.0.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="strscan (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="test-unit (v3.2.7, Remote: ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/test-unit-3.2.7/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/test-unit-3.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="test-unit (v3.2.7, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/lib" />
       </SOURCES>
     </library>
     <library name="text (v1.3.1, Remote: ruby-2.3.1-p112) [gem]">
@@ -1680,12 +1816,24 @@
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/trollop-2.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="webrick (v1.4.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="xmlrpc (v0.3.0, Remote: ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/xmlrpc-0.3.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/xmlrpc-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="yard (v0.9.8, Remote: ruby-2.3.1-p112) [gem]">
@@ -1695,6 +1843,10 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/yard-0.9.8/lib" />
       </SOURCES>
+    </library>
+    <library name="zlib (v1.0.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
   </component>
 </application>

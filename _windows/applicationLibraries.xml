@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="bundler (v1.16.2, Remote: ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/bundler-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/bundler-1.16.2/lib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

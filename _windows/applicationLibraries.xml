@@ -2286,10 +2286,10 @@
     </library>
     <library name="bundler (v1.16.2, Remote: ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/rubygems-update-2.7.7/bundler/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1239004107/-1779275074/gems/bundler-1.16.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/1089357486/-472248627/gems/rubygems-update-2.7.7/bundler/lib" />
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1239004107/-1779275074/gems/bundler-1.16.2/lib" />
       </SOURCES>
     </library>
     <library name="bundler (v1.16.2, ruby-2.5.1-p57) [gem]">
@@ -2874,6 +2874,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1590197925/1599112911/gems/rake-12.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.1, Remote: ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1239004107/-1779275074/gems/rake-12.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.RubyMine2018.1/system/ruby_stubs/-1239004107/-1779275074/gems/rake-12.3.1/lib" />
       </SOURCES>
     </library>
     <library name="rdoc (v6.0.1, ruby-2.5.1-p57) [gem]">

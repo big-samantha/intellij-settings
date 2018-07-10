@@ -3,28 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1501098317107">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="124" column="23" />
-        <mark key="]" line="125" column="36" />
-        <mark key="." line="125" column="36" />
-        <mark key="^" line="125" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501208584653">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/deploy_user.pp" timestamp="1501091877847">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501191196798">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="13" />
-        <mark key="^" line="40" column="35" />
-        <mark key="." line="42" column="13" />
-      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/tools/rake/provision.rake" timestamp="1500672439915">
         <mark key="'" line="12" column="8" />
         <mark key="[" line="25" column="0" />
@@ -32,23 +10,12 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/virtual/manifests/s3_access.pp" timestamp="1500580901764">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501208581875">
-        <mark key="'" line="459" column="0" />
-        <mark key="[" line="355" column="44" />
-        <mark key="]" line="376" column="35" />
-        <mark key="^" line="376" column="35" />
-        <mark key="." line="376" column="35" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1501205662867">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" timestamp="1502305009195">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/apps/sftp.yaml" timestamp="1500401203346">
         <mark key="'" line="63" column="389" />
@@ -57,6 +24,116 @@
         <mark key="^" line="181" column="32" />
         <mark key="." line="181" column="32" />
       </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/cde_proxy/swiper.conf.erb" timestamp="1501894779770">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1501537280851">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1502742952180">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="329" column="29" />
+        <mark key="]" line="329" column="34" />
+        <mark key="^" line="329" column="34" />
+        <mark key="." line="329" column="34" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1503090788876">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="1" />
+        <mark key="." line="64" column="1" />
+        <mark key="^" line="64" column="1" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1501891810455">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="74" column="32" />
+        <mark key="]" line="64" column="6" />
+        <mark key="." line="64" column="6" />
+        <mark key="^" line="64" column="6" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/examples/get_subnets_from_tag_and_value.pp" timestamp="1502926490388">
+        <mark key="[" line="3" column="63" />
+        <mark key="]" line="3" column="73" />
+        <mark key="^" line="3" column="73" />
+        <mark key="." line="3" column="73" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/spec/functions/subnets_from_tag_spec.rb" timestamp="1502923337034">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1501123970802">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="83" column="33" />
+        <mark key="]" line="84" column="5" />
+        <mark key="." line="84" column="5" />
+        <mark key="^" line="84" column="5" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/swiper-service.yaml" timestamp="1501890637694">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1499970279099">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" timestamp="1503007834881">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/.fixtures.yml" timestamp="1502922274591">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" timestamp="1502906574090">
+        <mark key="s" line="78" column="23" />
+        <mark key="'" line="92" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503089657772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/templates/aws/s3/policy_womply_spark_crypto_bucket.epp" timestamp="1501191196798">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" timestamp="1501618114569">
+        <mark key="'" line="459" column="0" />
+        <mark key="[" line="355" column="44" />
+        <mark key="]" line="376" column="35" />
+        <mark key="^" line="376" column="35" />
+        <mark key="." line="376" column="35" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/metadata.json" timestamp="1502913946547">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="7" column="69" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/examples/get_subnets_from_tag.pp" timestamp="1502926568231">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="51" />
+        <mark key="." line="3" column="51" />
+        <mark key="^" line="3" column="51" />
+      </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/docs/microservices.md" timestamp="1500052592270">
         <mark key="'" line="332" column="67" />
         <mark key="[" line="9" column="153" />
@@ -64,11 +141,16 @@
         <mark key="." line="16" column="37" />
         <mark key="^" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws.pp" timestamp="1500662690697">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="10" column="8" />
-        <mark key="." line="10" column="8" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/kms.pp" timestamp="1501537267259">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="69" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Working/src/stdlib_aws/spec/functions/subnets_from_tag.rb" timestamp="1502922156236">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/puppet/agent.pp" timestamp="1501011375441">
         <mark key="[" line="56" column="17" />
@@ -76,17 +158,11 @@
         <mark key="^" line="56" column="25" />
         <mark key="." line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/prerequisites.pp" timestamp="1501176188201">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="337" column="0" />
-        <mark key="]" line="337" column="0" />
-        <mark key="^" line="337" column="7" />
-        <mark key="." line="337" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices.yaml" timestamp="1500924774904">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="16" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/s3.pp" timestamp="1502484996325">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="29" column="54" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/templates/ecs/deploy_user_policy.epp" timestamp="1501093336744">
         <mark key="'" line="50" column="0" />
@@ -102,30 +178,23 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_clusters.yaml" timestamp="1501022942585">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/cde_proxy.pp" timestamp="1501888947942">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="18" />
+        <mark key="^" line="37" column="23" />
+        <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501022990256">
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/files/aws/iam/policy_s3_myron_only.json" timestamp="1502482562727">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs.pp" timestamp="1501896950859">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="29" column="27" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/ecs/microservices.pp" timestamp="1501012888943">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="74" column="32" />
-        <mark key="]" line="64" column="6" />
-        <mark key="." line="64" column="6" />
-        <mark key="^" line="64" column="6" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" timestamp="1501016546388">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="66" column="9" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/clusters.pp" timestamp="1501023368777">
         <mark key="'" line="0" column="0" />
@@ -134,53 +203,15 @@
         <mark key="." line="125" column="2" />
         <mark key="^" line="125" column="2" />
       </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" timestamp="1501123970802">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="83" column="33" />
-        <mark key="]" line="84" column="5" />
-        <mark key="." line="84" column="5" />
-        <mark key="^" line="84" column="5" />
-      </file>
-      <file name="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/revenue-service.yaml" timestamp="1499970279099">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
+      <file name="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" timestamp="1502999485823">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="86" column="2" />
+        <mark key="]" line="86" column="4" />
+        <mark key="^" line="86" column="4" />
+        <mark key="." line="86" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="330" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="71" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="75" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="81" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="86" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="91" column="4" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/common.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="43" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="33" column="34" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
-      <jump line="37" column="36" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
-      <jump line="58" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/customer-email-service.yaml" />
-      <jump line="1" column="12" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="58" column="28" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="4" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="67" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="68" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="2" column="2" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="41" column="1" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/cash-service.yaml" />
-      <jump line="39" column="38" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
-      <jump line="3" column="32" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
-      <jump line="7" column="29" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
-      <jump line="15" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
-      <jump line="20" column="3" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/functions/grant_readonly_postgres.pp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
-      <jump line="17" column="45" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
-      <jump line="33" column="35" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/killbill-service.yaml" />
-      <jump line="13" column="6" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
-      <jump line="88" column="35" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
-      <jump line="64" column="24" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
-      <jump line="71" column="4" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
-      <jump line="85" column="11" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
       <jump line="86" column="5" filename="$USER_HOME$/Working/src/monolith/app/models/mid_revenue_data.rb" />
       <jump line="71" column="28" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" />
       <jump line="17" column="49" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/cde_proxy.pp" />
@@ -250,55 +281,86 @@
       <jump line="115" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" />
       <jump line="260" column="2" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" />
       <jump line="459" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/aws/users.pp" />
+      <jump line="21" column="512" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="41" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="42" column="6" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="247" column="10" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="15" column="9" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="16" column="15" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="42" column="20" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="254" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="234" column="4" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="237" column="30" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="222" column="3" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="223" column="6" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="224" column="19" filename="$USER_HOME$/Working/src/womply-puppet/site/womply/manifests/ecs/microservice.pp" />
+      <jump line="20" column="19" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="29" column="11" filename="$USER_HOME$/Working/src/womply-puppet/hieradata/ecs_microservices/txn-etl-service.yaml" />
+      <jump line="40" column="4" filename="$USER_HOME$/Working/src/stdlib_aws/metadata.json" />
+      <jump line="9" column="33" filename="$USER_HOME$/Working/src/stdlib_aws/metadata.json" />
+      <jump line="42" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/metadata.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/metadata.json" />
+      <jump line="12" column="3" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="36" column="4" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="37" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/Working/src/stdlib_aws/lib/puppet/functions/stdlib_aws/subnets_from_tag.rb" />
+      <jump line="2" column="22" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" />
+      <jump line="11" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" />
+      <jump line="4" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" />
+      <jump line="88" column="0" filename="$USER_HOME$/Working/src/womply-puppet/site/profile/manifests/rails/rails_tasks.pp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod-svc9-postgres</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIEFyZ3VtZW50RXJyb3IgJ2ZvbycgdW5sZXNzIHRoaW5nLmlzX2EgU3RyaW5nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>prod-svc9-postgres</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>pciarchives</text>
+        <text>GRS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpYW1fcG9saWN5IHsgJ1dvbXBseVNwYXJrQ3J5cHRvJzoKICAgIGVuc3VyZSAgID0+IHByZXNlbnQsCiAgICBkb2N1bWVudCA9PiBlcHAoJ3Byb2ZpbGUvYXdzL2lhbS9wb2xpY3lfd29tcGx5X3NwYXJrX2NyeXB0by5lcHAnLCB7CiAgICAgICdidWNrZXRfbmFtZScgPT4gJ3dvbXBseS1wZ3AnLAogICAgICAna21zX2tleV9hcm4nID0+ICdhcm46YXdzOmttczp1cy13ZXN0LTI6OTg1NDMzNTU2NDExOmtleS9kZDQ2ZjhmOS1hMzRlLTQ3OTQtYmQxMS02NGZiYzc4MGQxYzcnCiAgICB9KSwKICB9Cg==</text>
+        <text encoding="base64">JHN1Ym5ldHMgPSBzdGRsaWJfYXdzOjpzdWJuZXRzX2Zyb21fdGFnKCdzZWN1cml0eV9lbnZpcm9ubWVudCcpCm5vdGljZSgkc3VibmV0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQVdTX1dPTVBMWV9CVUNLRVRTX0FSQ0hJVkU6IHdvbXBseS1wY2ktYXJjaGl2ZXMK</text>
+        <text encoding="base64">ICAgIHJhaXNlIEFyZ3VtZW50RXJyb3IgJ2ZvbycgdW5sZXNzIHRoaW5nLmlzX2EgU3RyaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ1JZUFRPX1BHUF9QQVNTUEhSQVNFPQo=</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQVdTX1dPTVBMWV9CVUNLRVRTX1NFQ1JFVFM9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJFZmZlY3QiOiAiQWxsb3ciLAogICAgICAgICAgICAiQWN0aW9uIjogWwogICAgICAgICAgICBdLAogICAgICAgICAgICAiUmVzb3VyY2UiOiBbCiAgICAgICAgICAgICAgICAiPCU9ICRlY3NfY2x1c3RlcnNfYXJuICU+IgogICAgICAgICAgICBdCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJlY3M6UmVnaXN0ZXJUYXNrRGVmaW5pdGlvbiIsCiAgICAgICAgICAgICAgICAiZWNzOlVwZGF0ZVNlcnZpY2UiCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQoe3JlZ2lvbjogcmVnaW9ufSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IGVjMl9jbGllbnQoe3JlZ2lvbjogcmVnaW9ufSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkaWFtX3BvbGljeV9uYW1lID0gImVjc19kZXBsb3lfcG9saWN5LSR7dXNlcm5hbWV9Igo=</text>
+        <text encoding="base64">ICAgIHBhcmFtICdTdHJpbmcnLCA6dmFsdWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkaWFtX3BvbGljeV9uYW1lID0gImVjc19kZXBsb3lfcG9saWN5LSR7dXNlcm5hbWV9Igo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZm9vKGJhcikKICAgIAogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
-      <last-search>pciarchives</last-search>
+      <last-search>GRS</last-search>
       <last-offset />
-      <last-pattern>pciarchives</last-pattern>
+      <last-pattern>GRS</last-pattern>
       <last-replace>$user</last-replace>
       <last-substitute>$partner</last-substitute>
       <last-dir>1</last-dir>
@@ -306,10 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>RS</entry>
-        <entry>data</entry>
-        <entry>title</entry>
-        <entry>name</entry>
         <entry>$name</entry>
         <entry>ecs_name</entry>
         <entry>rds_config</entry>
@@ -321,16 +379,17 @@
         <entry>Ecs_cluster</entry>
         <entry>zone</entry>
         <entry>microservices</entry>
-        <entry>GRS</entry>
         <entry>SFTP</entry>
         <entry>Spark</entry>
         <entry>archives</entry>
         <entry>pciarchives</entry>
+        <entry>dns</entry>
+        <entry>Route</entry>
+        <entry>dns_target</entry>
+        <entry>elb_data</entry>
+        <entry>GRS</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
-        <entry>46</entry>
-        <entry>51</entry>
         <entry>18</entry>
         <entry>185</entry>
         <entry>w</entry>
@@ -348,6 +407,9 @@
         <entry>7</entry>
         <entry>15</entry>
         <entry>12</entry>
+        <entry>248</entry>
+        <entry>142</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />

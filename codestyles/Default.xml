@@ -1,7 +1,7 @@
 <code_scheme name="Default">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
+    <option name="RIGHT_MARGIN" value="120" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="RHTML">
     <indentOptions>
@@ -12,5 +12,8 @@
     <option name="INDENT_WHEN_CASES" value="false" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
